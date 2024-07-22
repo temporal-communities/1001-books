@@ -87,7 +87,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 86	2006						Ormond	Edgeworth, Maria	2) Deleted 2008		1225	English	1800s		Q7103428	Q237575	945	48741	1	35
 87	2006						Persuasion	Austen, Jane	2) Deleted 2008		73	English	1800s		Q333179	Q36322	597597	3602666	39	137
 88	2006						Northanger Abbey	Austen, Jane	2) Deleted 2008		530	English	1800s		Q477508	Q36322	347285	3602666	29	137
-89	2006	2008	2010	2012	2018		Frankenstein	Shelley, Mary	1) core list		609	English	1800s		Q150827	Q47152	2727204	2339608	74	102
+89	2006	2008	2010	2012	2018		Frankenstein	Shelley, Mary	1) core list		609	English	1800s		Q150827	Q47152	2727204	2339608	74	103
 90	2006	2008	2010	2012	2018		Ivanhoe	Scott, Sir Walter	1) core list		813	Scottish	1800s		Q840974	Q79025	694600	828923	39	92
 91	2006						The Monastery	Scott, Sir Walter	2) Deleted 2008		1231	Scottish	1800s		Q3224650	Q79025	7672	828923	5	92
 92	2006	2008	2010	2012	2018		Melmoth the Wanderer	Maturin, Charles Robert	1) core list		984	Irish	1800s		Q1475956	Q561027	74455	33694	11	23
@@ -920,7 +920,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 919	2006	2008	2010	2012	2018		Schindler’s Ark	Keneally, Thomas	1) core list		15	Australian	1900s		Q1975638	Q298334	213379	106007	18	42
 920	2006	2008	2010	2012	2018		A Pale View of Hills	Ishiguro, Kazuo	1) core list		683	English	1900s		Q4658705	Q272855	60954	1174202	16	96
 921	2006	2008	2010	2012	2018		Wittgenstein’s Nephew	Bernhard, Thomas	1) core list		182	Dutch	1900s		Q844847	Q44336	12299	346356	5	49
-922	2006	2008	2010	2012	2018		The Color Purple	Walker, Alice	1) core list		46	American	1900s		Q1897870	Q215868	1406249	1504740	21	69
+922	2006	2008	2010	2012	2018		The Color Purple	Walker, Alice	1) core list		46	American	1900s		Q1897870	Q215868	1406249	1504740	21	70
 923	2006	2008	2010	2012	2018		A Boy’s Own Story	White, Edmund	1) core list		682	American	1900s		Q2601903	Q729117	12664	50369	6	20
 924	2006	2008	2010	2012	2018		If Not Now, When?	Levi, Primo	1) core list		71	Italy	1900s		Q1443497	Q153670	23214	805291	4	65
 925		2008	2010	2012	2018		The Book of Disquiet	Pessoa, Fernando	3) Added 2008		7		1900s		Q2632627	Q173481	207486	803449	12	75
@@ -1027,7 +1027,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 1026	2006	2008	2010	2012	2018		Like Water for Chocolate	Esquivel, Laura	1) core list		288	Mexican	1900s		Q1777072	Q230586	224299	111833	15	36
 1027	2006	2008	2010	2012	2018		The History of the Siege of Lisbon	Saramago, José	1) core list		687	Portugal	1900s		Q2701463	Q37060	14860	778019	10	108
 1028	2006	2008	2010	2012	2018		The Trick is to Keep Breathing	Galloway, Janice	1) core list		658	Scottish	1900s		Q7770203	Q370851	3732	6254	1	9
-1029	2006						The Temple of My Familiar	Walker, Alice	2) Deleted 2008		242	American	1900s		Q7768366	Q215868	13429	1504740	4	69
+1029	2006						The Temple of My Familiar	Walker, Alice	2) Deleted 2008		242	American	1900s		Q7768366	Q215868	13429	1504740	4	70
 1030		2008	2010	2012	2018		The Great Indian Novel	Tharoor, Shashi	3) Added 2008		610		1900s		Q7737811	Q195616	31675	830632	1	28
 1031	2006	2008	2010	2012	2018		The Melancholy of Resistance	Krasznahorkai, László	1) core list		114	Hugarian	1900s		Q785109	Q512062	27964	132799	6	36
 1032	2006	2008	2010	2012	2018		Remains of the Day	Ishiguro, Kazuo	1) core list		88	Japanese/English	1900s		Q829934	Q272855	558089	1174202	36	96
@@ -1077,7 +1077,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 1076	2006	2008	2010	2012	2018		Indigo	Warner, Marina	1) core list		1246	English	1900s		Q6024737	Q1264872	1580	35400	2	13
 1077	2006	2008	2010	2012	2018		The English Patient	Ondaatje, Michael	1) core list			Sri Lanka	1900s		Q1292533	Q313593	158815	156323	23	41
 1078	2006						Jazz	Morrison, Toni	2) Deleted 2008		563	American	1900s		Q3163324	Q72334	34001	1085899	10	105
-1079	2006	2008	2010	2012	2018		Possessing the Secret of Joy	Walker, Alice	1) core list		170	American	1900s		Q7233383	Q215868	11270	1504740	2	69
+1079	2006	2008	2010	2012	2018		Possessing the Secret of Joy	Walker, Alice	1) core list		170	American	1900s		Q7233383	Q215868	11270	1504740	2	70
 1080	2006						A Heart So White	Marias, Javier	2) Deleted 2008		264	Spanish	1900s		Q1917901	Q299161	42402	212086	10	39
 1081		2008	2010	2012	2018		All the Pretty Horses	McCarthy, Cormac	3) Added 2008		246	American	1900s		Q264519	Q272610	351880	2553582	9	58
 1082		2008	2010	2012	2018		The Triple Mirror of the Self	Ghose, Zulfikar	3) Added 2008		1306		1900s			Q3248430		20929	0	3
