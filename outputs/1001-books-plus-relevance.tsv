@@ -2,16 +2,16 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 1	2006						Aesop’s Fables	Aesopus	2) Deleted 2008		174	Greek	pre-1700s		Q865902	Q43423	871410	1246432	52	100
 2	2006						Metamorphoses	Ovid	2) Deleted 2008		368	Roman	pre-1700s		Q184742	Q7198	868100	1059672	61	134
 3	2006						Chaireas and Kallirhoe	Chariton	2) Deleted 2008		1136		pre-1700s		Q2972092	Q434567	17972	13562	10	23
-4	2006						An Ethiopian Romance  	Heliodorus	2) Deleted 2008	Aithiopika	1164	Syrian	pre-1700s		Q2657860	Q313011	26599	25414	12	30
+4	2006						An Ethiopian Romance	Heliodorus	2) Deleted 2008	Aithiopika	1164	Syrian	pre-1700s		Q2657860	Q313011	26599	25414	12	30
 5	2006	2008	2010	2012	2018		The Thousand and One Nights	Anonymous	1) core list		525	Arabian	pre-1700s		Q8258	Q4233718	3015976	61352	130	9
 6		2008	2010	2012	2018		The Tale of the Bamboo Cutter	Anonymous	3) Added 2008		873		pre-1700s		Q923593	Q4233718	685065	61352	35	9
 7		2008	2010	2012	2018		The Tale of Genji	Murasaki, Shikibu	3) Added 2008		1082		pre-1700s		Q8269	Q81731	1196249	2083226	100	142
-8		2008	2010	2012	2018		Romance of the Three Kingdoms	Luo, Guanzhong 	3) Added 2008		1158		pre-1700s		Q70806	Q264517	1168036	131451	60	34
-9		2008	2010	2012	2018		The Water Margin	Shi, Nai'an 	3) Added 2008		414		pre-1700s		Q70827	Q1777502	689906	59878	52	26
+8		2008	2010	2012	2018		Romance of the Three Kingdoms	Luo, Guanzhong	3) Added 2008		1158		pre-1700s		Q70806	Q264517	1168036	131451	60	34
+9		2008	2010	2012	2018		The Water Margin	Shi, Nai'an	3) Added 2008		414		pre-1700s		Q70827	Q1777502	689906	59878	52	26
 10		2008	2010	2012	2018		Tirant lo Blanc	Martorell, Joanot	3) Added 2008		1280		pre-1700s		Q559667	Q363836	117025	46049	27	33
 11		2008	2010	2012	2018		La Celestina	Rojas, Fernando de	3) Added 2008		1154		pre-1700s		Q583705	Q353841	327985	131213	33	29
-12		2008	2010	2012	2018		Amadis of Gaul	Montalvo, Garci Rodríguez de 	3) Added 2008		1195		pre-1700s		Q452075	Q723468	152789	28631	25	15
-13		2008	2010	2012	2018		The Life of Lazarillo de Tormes	Anonymous	3) Added 2008	La vida del Lazarillo de Tormes  	1001		pre-1700s		Q770895	Q4233718	397099	61352	37	9
+12		2008	2010	2012	2018		Amadis of Gaul	Montalvo, Garci Rodríguez de	3) Added 2008		1195		pre-1700s		Q452075	Q723468	152789	28631	25	15
+13		2008	2010	2012	2018		The Life of Lazarillo de Tormes	Anonymous	3) Added 2008	La vida del Lazarillo de Tormes	1001		pre-1700s		Q770895	Q4233718	397099	61352	37	9
 14	2006	2008	2010	2012	2018		Gargantua and Pantagruel	Rabelais, François	1) core list		1055	French	pre-1700s		Q822290	Q131018	545871	657493	39	90
 15		2008	2010	2012	2018		The Lusiads	Camões, Luís de	3) Added 2008		293		pre-1700s		Q781898	Q590	222947	334243	37	86
 16		2008	2010	2012	2018		Monkey: Journey to the West	Wu, Cheng'en	3) Added 2008		294		pre-1700s		Q70784	Q228889	1758091	130947	65	50
@@ -24,7 +24,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 23		2008	2010	2012	2018		The Conquest of New Spain	Díaz del Castillo, Bernal	3) Added 2008		234		pre-1700s		Q378485	Q315795	68802	145798	10	29
 24		2008	2010	2012	2018		The Adventurous Simplicissimus	Grimmelshausen, Hans von	3) Added 2008	Der abenteuerliche Simplicissimus	946		pre-1700s		Q705839	Q31220	123115	62127	24	40
 25	2006						The Pilgrim’s Progress	Bunyan, John	2) Deleted 2008		259	English	pre-1700s		Q268211	Q108206	514925	280202	38	54
-26	2006	2008	2010	2012	2018		The Princess of Clèves	La Fayette, Madame de	1) core list	La Princess de Clèves	1122	French	pre-1700s		Q107608613	Q237090	373	109753	1	41
+26	2006	2008	2010	2012	2018		The Princess of Clèves	La Fayette, Madame de	1) core list	La Princess de Clèves	1122	French	pre-1700s		Q1157010	Q237090	254616	109753	19	41
 27	2006	2008	2010	2012	2018		Oroonoko	Behn, Aphra	1) core list		1272	English	pre-1700s		Q2453934	Q231886	76264	144178	15	45
 28	2006						A Tale of a Tub	Swift, Jonathan	2) Deleted 2008		1005	English	1700s		Q2353123	Q41166	45659	951820	7	97
 29	2006	2008	2010	2012	2018		Robinson Crusoe	Defoe, Daniel	1) core list		834	English	1700s		Q483034	Q40946	1890793	893682	85	101
@@ -44,8 +44,8 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 43	2006						Amelia	Fielding, Henry	2) Deleted 2008		1171	English	1700s		Q2842656	Q34190	9925	229481	5	49
 44	2006	2008	2010	2012	2018		The Female Quixote	Lennox, Charlotte	1) core list		1069	America	1700s		Q1404172	Q441757	15650	11765	2	12
 45	2006	2008	2010	2012	2018		Candide	Voltaire	1) core list		565	French	1700s		Q215894	Q9068	935581	3293244	48	171
-46	2006	2008	2010	2012	2018		The History of Rasselas, Prince of Abissinia  	Johnson, Samuel	1) core list		1084	English	1700s		Q3419875	Q183266	23987	604627	4	73
-47	2006	2008	2010	2012	2018		Julie; or, the New Eloise	Rousseau, Jean-Jacques	1) core list		1224	French	1700s		Q42191769	Q6527		3600945	0	153
+46	2006	2008	2010	2012	2018		The History of Rasselas, Prince of Abissinia	Johnson, Samuel	1) core list		1084	English	1700s		Q3419875	Q183266	23987	604627	4	73
+47	2006	2008	2010	2012	2018		Julie; or, the New Eloise	Rousseau, Jean-Jacques	1) core list		1224	French	1700s		Q129289	Q6527	116731	3600945	22	153
 48	2006	2008	2010	2012	2018		Émile; or, On Education	Rousseau, Jean-Jacques	1) core list		1037	French	1700s		Q913599	Q6527	338332	3600945	35	153
 49	2006	2008	2010	2012	2018		The Castle of Otranto	Walpole, Horace	1) core list		1223	English	1700s		Q548576	Q309903	214436	189544	21	43
 50	2006	2008	2010	2012	2018		The Vicar of Wakefield	Goldsmith, Oliver	1) core list		1052	English	1700s		Q1196205	Q236236	67470	154834	16	48
@@ -56,14 +56,14 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 55	2006	2008	2010	2012	2018		The Sorrows of Young Werther	Goethe, Johann Wolfgang von	1) core list		778	German	1700s		Q151883	Q5879	1010031	3380565	52	186
 56	2006	2008	2010	2012	2018		Evelina	Burney, Fanny	1) core list		938	English	1700s		Q1635110	Q259530	40422	72181	7	35
 57	2006	2008	2010	2012	2018		Reveries of a Solitary Walker	Rousseau, Jean-Jacques	1) core list		835	French	1700s		Q129476	Q6527	63433	3600945	9	153
-58	2006	2008	2010	2012	2018		Dangerous Liaisons	Laclos, Pierre Choderlos de 	1) core list		213	French	1700s		Q862050	Q212476	573324	163873	30	45
+58	2006	2008	2010	2012	2018		Dangerous Liaisons	Laclos, Pierre Choderlos de	1) core list		213	French	1700s		Q862050	Q212476	573324	163873	30	45
 59	2006	2008	2010	2012	2018		Confessions	Rousseau, Jean-Jacques	1) core list		1056	French	1700s		Q1207595	Q6527	120442	3600945	23	153
 60	2006						Cecilia	Burney, Fanny	2) Deleted 2008		1064	English	1700s		Q3233990	Q259530	10733	72181	5	35
 61	2006	2008	2010	2012	2018		The 120 Days of Sodom	Sade, Marquis de	1) core list		1262	French	1700s		Q1210734	Q123867	897498	2022749	28	74
 62		2008	2010	2012	2018		Anton Reiser	Moritz, Karl Philipp	3) Added 2008		1051		1700s		Q593385	Q215781	10654	20681	2	22
 63	2006	2008	2010	2012	2018		Vathek	Beckford, William Thomas	1) core list		1191	English	1700s		Q54548	Q361026	58935	49649	10	28
 64	2006	2008	2010	2012	2018		Justine	Sade, Marquis de	1) core list		1129	French	1700s		Q1329470	Q123867	282170	2022749	22	74
-65		2008	2010	2012	2018		A Dream of Red Mansions	Cao, Xueqin 	3) Added 2008		201		1700s		Q8265	Q182874	857965	142553	102	48
+65		2008	2010	2012	2018		A Dream of Red Mansions	Cao, Xueqin	3) Added 2008		201		1700s		Q8265	Q182874	857965	142553	102	48
 66	2006	2008	2010	2012	2018		The Adventures of Caleb Williams	Godwin, William	1) core list		1127	English	1700s		Q7784409	Q188569	22566	250640	3	52
 67	2006	2008	2010	2012	2018		The Interesting Narrative	Equiano, Olaudah	1) core list		757	Nigerian	1700s		Q7742270	Q379887	54899	250109	5	35
 68	2006	2008	2010	2012	2018		The Mysteries of Udolpho	Radcliffe, Ann	1) core list		1209	English	1700s		Q2600909	Q231944	93290	138559	15	51
@@ -72,7 +72,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 71	2006	2008	2010	2012	2018		Camilla	Burney, Fanny	1) core list		1054	English	1700s		Q2934813	Q259530	12946	72181	3	35
 72	2006	2008	2010	2012	2018		Jacques the Fatalist	Diderot, Denis	1) core list		584	French	1700s		Q945216	Q448	76314	908275	20	98
 73	2006	2008	2010	2012	2018		The Nun	Diderot, Denis	1) core list		806	French	1700s		Q1209658	Q448	85280	908275	18	98
-74	2006	2008	2010	2012	2018		Hyperion	Hölderlin, Friedrich	1) core list	Hyperion oder Der Eremit in Griechenland  	361	German	1700s		Q1190094	Q75889	57383	353510	11	62
+74	2006	2008	2010	2012	2018		Hyperion	Hölderlin, Friedrich	1) core list	Hyperion oder Der Eremit in Griechenland	361	German	1700s		Q1190094	Q75889	57383	353510	11	62
 75	2006	2008	2010	2012	2018		Castle Rackrent	Edgeworth, Maria	1) core list		1228	English	1800s		Q5050238	Q237575	14175	48741	6	35
 76		2008	2010	2012	2018		Henry of Ofterdingen	Novalis	3) Added 2008		948		1800s		Q58178849	Q60684	46941	357870	13	70
 77	2006	2008	2010	2012	2018		Rameau’s Nephew	Diderot, Denis	1) core list		1130	French	1800s		Q1336786	Q448	43540	908275	14	98
@@ -92,9 +92,9 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 91	2006						The Monastery	Scott, Sir Walter	2) Deleted 2008		1231	Scottish	1800s		Q3224650	Q79025	7672	828923	5	92
 92	2006	2008	2010	2012	2018		Melmoth the Wanderer	Maturin, Charles Robert	1) core list		984	Irish	1800s		Q1475956	Q561027	74455	33694	11	23
 93	2006						The Albigenses	Maturin, Charles Robert	2) Deleted 2008		1312	Irish	1800s		Q117317300	Q561027	1118	33694	1	23
-94		2008	2010	2012	2018		The Life and Opinions of the Tomcat Murr	Hoffman, E.T.A.	3) Added 2008	Lebensansichten des Katers Murr  	529		1800s		Q1314475	Q150471	53676	724571	10	66
+94		2008	2010	2012	2018		The Life and Opinions of the Tomcat Murr	Hoffmann, E.T.A.	3) Added 2008	Lebensansichten des Katers Murr	529		1800s		Q1314475	Q150471	53676	724571	10	66
 95	2006	2008	2010	2012	2018		The Private Memoirs and Confessions of a Justified Sinner	Hogg, James	1) core list		888	Scottish	1800s		Q2992437	Q941810	34643	35255	5	24
-96		2008	2010	2012	2018		The Life of a Good-for-Nothing	Eichendorff, Joseph von	3) Added 2008	Aus dem Leben eines Taugenichts  	1146		1800s		Q777658	Q77204	55077	168406	7	47
+96		2008	2010	2012	2018		The Life of a Good-for-Nothing	Eichendorff, Joseph von	3) Added 2008	Aus dem Leben eines Taugenichts	1146		1800s		Q777658	Q77204	55077	168406	7	47
 97	2006	2008	2010	2012	2018		Last of the Mohicans	Cooper, James Fenimore	1) core list		837	American	1800s		Q493574	Q167856	773497	382936	45	65
 98	2006	2008	2010	2012	2018		The Betrothed	Manzoni, Alessandro	1) core list	I Promessi Sposi	924	Italian	1800s		Q28491	Q1064	414687	531947	29	74
 99	2006	2008	2010	2012	2018		The Red and the Black	Stendhal	1) core list		637	French	1800s		Q192649	Q502	656864	777772	44	90
@@ -108,7 +108,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 107		2008	2010	2012	2018		The Lion of Flanders	Conscience, Hendrik	3) Added 2008		1247		1800s		Q977727	Q378133	22192	28433	6	28
 108	2006	2008	2010	2012	2018		The Charterhouse of Parma	Stendhal	1) core list		722	French	1800s		Q1165714	Q502	220656	777772	29	90
 109	2006	2008	2010	2012	2018		The Fall of the House of Usher	Poe, Edgar Allan	1) core list		216	American	1800s		Q1197735	Q16867	5690248	6770125	27	145
-110		2008	2010	2012	2018		Camera Obscura	Hildebrand	3) Added 2008		1284		1800s		Q2053326	Q46778	8681	4309	1	13
+110		2008	2010	2012	2018		Camera Obscura	Hildebrand	3) Added 2008		1284		1800s		Q2053326	Q537100	8681	12477	1	19
 111		2008	2010	2012	2018		A Hero of Our Times	Lermontov, Mikhail Yurevich	3) Added 2008		87		1800s		Q1304649	Q46599	417402	1302194	29	86
 112	2006	2008	2010	2012	2018		Dead Souls	Gogol, Nikolay	1) core list		382	Russian	1800s		Q647379	Q43718	578005	2408475	43	107
 113	2006						A Christmas Carol	Dickens, Charles	2) Deleted 2008		118	English	1800s		Q62879	Q5686	1876225	4158626	62	162
@@ -119,7 +119,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 118	2006	2008	2010	2012	2018		The Three Musketeers	Dumas, Alexandre	1) core list		262	French	1800s		Q140527	Q38337	4126468	3139845	74	113
 119	2006						Queen Margot	Dumas, Alexandre	2) Deleted 2008	La Reine Margot	178	French	1800s		Q2020094	Q38337	165734	3139845	22	113
 120		2008	2010	2012	2018		Facundo	Sarmiento, Domingo Faustino	3) Added 2008		1105		1800s		Q807736	Q254041	74907	507861	9	45
-121		2008	2010	2012	2018		The Devil's Pool	Sand, George	3) Added 2008	La mare au diable  	1111	English	1800s		Q3210542	Q3816	43936	1251298	5	78
+121		2008	2010	2012	2018		The Devil's Pool	Sand, George	3) Added 2008	La mare au diable	1111	English	1800s		Q3210542	Q3816	43936	1251298	5	78
 122	2006	2008	2010	2012	2018		The Count of Monte-Cristo	Dumas, Alexandre	1) core list	Le Comte du Monte-Cristo	287	French	1800s		Q191838	Q38337	3042094	3139845	63	113
 123	2006	2008	2010	2012	2018		Jane Eyre	Brontë, Charlotte	1) core list		160	English	1800s		Q182961	Q127332	1957194	1474009	58	88
 124	2006	2008	2010	2012	2018		Vanity Fair	Thackeray, William Makepeace	1) core list		919	English	1800s		Q612836	Q167768	436625	338320	36	67
@@ -188,12 +188,12 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 187	2006						Daniel Deronda	Eliot, George	2) Deleted 2008		808	English	1800s		Q552238	Q131333	88689	815027	12	85
 188	2006						Virgin Soil	Turgenev, Ivan	2) Deleted 2008		763	Russian	1800s		Q3518729	Q42831	17682	1092337	10	96
 189		2008	2010	2012	2018		Pepita Jimenez	Valera, Juan	3) Added 2008		1114		1800s		Q5562244	Q463630	18339	48973	2	22
-190		2008	2010	2012	2018		The Crime of Father Amaro	Eça de Queirós, José Maria 	3) Added 2008		265		1800s		Q3282044	Q316327	56040	164190	6	39
+190		2008	2010	2012	2018		The Crime of Father Amaro	Eça de Queirós, José Maria	3) Added 2008		265		1800s		Q3282044	Q316327	56040	164190	6	39
 191	2006	2008	2010	2012	2018		Drunkard	Zola, Émile	1) core list	L'assomoir	318	French	1800s		Q1197590	Q504	195228	1738644	25	113
 192	2006	2008	2010	2012	2018		Anna Karenina	Tolstoy, Leo	1) core list		483	Russian	1800s		Q147787	Q7243	2250627	5046400	79	182
 193	2006						Return of the Native	Hardy, Thomas	2) Deleted 2008		589	English	1800s		Q141568	Q132805	69329	801092	8	87
 194		2008	2010	2012	2018		Martin Fierro	Hernandez, Jose	3) Added 2008		852		1800s		Q832330	Q377623	234222	183550	22	27
-195	2006	2008	2010	2012	2018		The Red Room	Strindberg, August	1) core list	Röda rummet  	1202	Swedish	1800s		Q178563	Q7724	44670	495129	6	83
+195	2006	2008	2010	2012	2018		The Red Room	Strindberg, August	1) core list	Röda rummet	1202	Swedish	1800s		Q178563	Q7724	44670	495129	6	83
 196	2006						The Brothers Karamazov	Dostoevsky, Fyodor	2) Deleted 2008		59	Russian	1800s		Q183157	Q991	1928836	5714591	68	173
 197	2006	2008	2010	2012	2018		Ben-Hur	Wallace, Lew	1) core list		362	American	1800s		Q816528	Q357102	383019	170816	30	32
 198	2006	2008	2010	2012	2018		Nana	Zola, Émile	1) core list		662	French	1800s		Q1138346	Q504	201462	1738644	24	113
@@ -204,7 +204,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 203	2006	2008	2010	2012	2018		Treasure Island	Stevenson, Robert Louis	1) core list		522	Scottish	1800s		Q185118	Q1512	1472996	1525022	65	99
 204	2006	2008	2010	2012	2018		A Woman’s Life	Maupassant, Guy de	1) core list	Une vie	536	French	1800s		Q249242	Q9327	125022	1453137	15	102
 205	2006	2008	2010	2012	2018		The Death of Ivan Ilyich	Tolstoy, Leo	1) core list		92	Russian	1800s		Q396602	Q7243	426317	5046400	33	182
-206	2006	2008	2010	2012	2018		Against the Grain	Huysmans, Joris-Karl	1) core list		484	French	1800s		Q105872353	Q210798	298	211895	0	47
+206	2006	2008	2010	2012	2018		Against the Grain	Huysmans, Joris-Karl	1) core list		484	French	1800s		Q763184	Q210798	178098	211895	18	47
 207		2008	2010	2012	2018		The Regent's Wife	Alas, Leopoldo	3) Added 2008		792		1800s		Q1784466	Q312747	119403	84849	14	36
 208	2006	2008	2010	2012	2018		Bel-Ami	Maupassant, Guy de	1) core list	Bel-Ami	619	French	1800s		Q339761	Q9327	276683	1453137	23	102
 209	2006	2008	2010	2012	2018		Marius the Epicurean	Pater, Walter	1) core list		1113	English	1800s		Q5477441	Q352528	7908	76952	2	25
@@ -217,21 +217,21 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 216	2006	2008	2010	2012	2018		The Strange Case of Dr. Jekyll and Mr. Hyde	Stevenson, Robert Louis	1) core list		497	Scottish	1800s		Q217352	Q1512	2201901	1525022	51	99
 217	2006						She	Haggard, H. Rider	2) Deleted 2008		1003	English	1800s		Q640513	Q237196	125359	191092	23	52
 218	2006						The Woodlanders	Hardy, Thomas	2) Deleted 2008		602	English	1800s		Q2254480	Q132805	24706	801092	3	87
-219		2008	2010	2012	2018		The Manors of Ulloa	Pardo Bazan, Emilia	3) Added 2008	Los pazos de Ulloa  	977		1800s		Q9024322	Q275929	43288	208025	7	30
-220	2006	2008	2010	2012	2018		The People of Hemsö	Strindberg, August	1) core list	Hemsöborna  	1189	Swedish	1800s		Q3287333	Q7724	28450	495129	7	83
+219		2008	2010	2012	2018		The Manors of Ulloa	Pardo Bazan, Emilia	3) Added 2008	Los pazos de Ulloa	977		1800s		Q9024322	Q275929	43288	208025	7	30
+220	2006	2008	2010	2012	2018		The People of Hemsö	Strindberg, August	1) core list	Hemsöborna	1189	Swedish	1800s		Q3287333	Q7724	28450	495129	7	83
 221	2006						Fortunata y Jacinta	Pérez Galdós, Benito	2) Deleted 2008		511	Spanish	1800s		Q3815979	Q189869	71772	307627	10	61
 222	2006	2008	2010	2012	2018		Pierre and Jean	Maupassant, Guy de	1) core list		865	French	1800s		Q1163683	Q9327	51359	1453137	6	102
 223	2006						The Master of Ballantrae	Stevenson, Robert Louis	2) Deleted 2008		854	Scottish	1800s		Q2615930	Q1512	45867	1525022	15	99
 224		2008	2010	2012	2018		Under the Yoke	Vazov, Ivan	3) Added 2008		157		1800s		Q2668054	Q310630	89966	199757	14	53
 225		2008	2010	2012	2018		The Child of Pleasure	D'Annunzio, Gabriele	3) Added 2008	Il Piacere	1141	Italian	1800s		Q3795119	Q193236	86399	1077304	4	77
 226		2008	2010	2012	2018		Eline Vere	Couperus, Louis	3) Added 2008		999		1800s		Q1622722	Q437798	13818	57969	4	29
-227	2006	2008	2010	2012	2018		Hunger	Hamsun, Knut	1) core list		129	Norway	1800s		Q1062365	Q40826	134493	437929	30	103
+227	2006	2008	2010	2012	2018		Hunger	Hamsun, Knut	1) core list		129	Norway	1800s		Q1062365	Q40826	134493	437929	30	102
 228	2006	2008	2010	2012	2018		By the Open Sea	Strindberg, August	1) core list		1215	Swedish	1800s		Q2652297	Q7724	1204	495129	2	83
 229	2006	2008	2010	2012	2018		La Bête Humaine	Zola, Émile	1) core list		285	French	1800s		Q942810	Q504	119662	1738644	19	113
 230		2008	2010	2012	2018		Thais	France, Anatole	3) Added 2008		970		1800s		Q2756710	Q42443	18813	386115	12	95
 231	2006	2008	2010	2012	2018		The Kreutzer Sonata	Tolstoy, Leo	1) core list		356	Russian	1800s		Q1214091	Q7243	180742	5046400	26	182
 232	2006	2008	2010	2012	2018		The Picture of Dorian Gray	Wilde, Oscar	1) core list		137	Irish	1800s		Q82464	Q30875	2825125	4522706	60	127
-233		2008	2010	2012	2018		Down There	Huysmans, Joris-Karl	3) Added 2008	Là-Bas  	401		1800s		Q1763200	Q210798	49080	211895	11	47
+233		2008	2010	2012	2018		Down There	Huysmans, Joris-Karl	3) Added 2008	Là-Bas	401		1800s		Q1763200	Q210798	49080	211895	11	47
 234	2006	2008	2010	2012	2018		Tess of the D’Urbervilles	Hardy, Thomas	1) core list		719	English	1800s		Q649409	Q132805	458098	801092	29	87
 235	2006	2008	2010	2012	2018		Gösta Berling’s Saga	Lagerlöf, Selma	1) core list		925	Swedish	1800s		Q1559656	Q44519	55325	582775	16	114
 236	2006	2008	2010	2012	2018		New Grub Street	Gissing, George	1) core list		918	English	1800s		Q29053296	Q369790		45103	2	31
@@ -239,8 +239,8 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 238	2006	2008	2010	2012	2018		The Adventures of Sherlock Holmes	Doyle, Arthur Conan	1) core list		17	English	1800s		Q392147	Q35610	445253	2279991	46	120
 239	2006	2008	2010	2012	2018		Diary of a Nobody	Grossmith, George	1) core list		745	English	1800s		Q864150	Q1564825	32707	15944	7	9
 240	2006						Born in Exile	Gissing, George	2) Deleted 2008		1168	English	1800s		Q4945890	Q369790	1142	45103	1	31
-241	2006						The Yellow Wallpaper	Gilman, Charlotte Perkins 	2) Deleted 2008		65	American	1800s		Q462373	Q287752	428030	167287	16	41
-242	2006						The Real Charlotte	Somerville and Ross	2) Deleted 2008		1250	Greek/Irish	1800s		Q51524366	Q7369633	2562	840	1	1
+241	2006						The Yellow Wallpaper	Gilman, Charlotte Perkins	2) Deleted 2008		65	American	1800s		Q462373	Q287752	428030	167287	16	41
+242	2006						The Real Charlotte	Somerville and Ross	2) Deleted 2008		1250	Greek/Irish	1800s		Q51524366	Q7559989	2562	3768	1	1
 243		2008	2010	2012	2018		The Viceroys	De Roberto, Federico	3) Added 2008		385		1800s		Q3236059	Q2641199	35903	27868	4	15
 244	2006	2008	2010	2012	2018		Jude the Obscure	Hardy, Thomas	1) core list		566	English	1800s		Q1248773	Q132805	151742	801092	16	87
 245	2006	2008	2010	2012	2018		Effi Briest	Fontane, Theodor	1) core list		1219	German	1800s		Q1296168	Q76632	141105	257305	17	56
@@ -260,11 +260,11 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 259	2006	2008	2010	2012	2018		The Awakening	Chopin, Kate	1) core list		826	American	1800s		Q1567505	Q230476	221215	182536	11	39
 260	2006	2008	2010	2012	2018		The Stechlin	Fontane, Theodor	1) core list		1007	German	1800s		Q1197130	Q76632	23487	257305	3	56
 261		2008	2010	2012	2018		Eclipse of the Crescent Moon	Gardonyi, Geza	3) Added 2008		822		1800s		Q987956	Q221903	76933	78940	7	30
-262	2006	2008	2010	2012	2018		Some Experiences of an Irish R.M.	Somerville and Ross	1) core list		1017	Irish	1800s		Q124091969	Q7369633		840	0	1
-263		2008	2010	2012	2018		Sandokan: The Tigers of Mompracem	Salgari, Emilio	3) Added 2008	Le tigri di Mompracem  	732	Italian	1900s		Q1248151	Q309786	46566	229881	7	43
+262	2006	2008	2010	2012	2018		Some Experiences of an Irish R.M.	Somerville and Ross	1) core list		1017	Irish	1800s		Q124091969	Q7559989		3768	0	1
+263		2008	2010	2012	2018		Sandokan: The Tigers of Mompracem	Salgari, Emilio	3) Added 2008	Le tigri di Mompracem	732	Italian	1900s		Q1248151	Q309786	46566	229881	7	43
 264	2006	2008	2010	2012	2018		Sister Carrie	Dreiser, Theodore	1) core list		848	American	1900s		Q1286961	Q486096	86931	307662	18	54
 265	2006						Lord Jim	Conrad, Joseph	2) Deleted 2008		991	English	1900s		Q727408	Q82925	163314	1488757	30	88
-266		2008	2010	2012	2018		None but the Brave	Schnitzler, Arthur	3) Added 2008	Lieutenant Gustl  	992		1900s		Q1821658	Q44331	28258	296396	5	55
+266		2008	2010	2012	2018		None but the Brave	Schnitzler, Arthur	3) Added 2008	Lieutenant Gustl	992		1900s		Q1821658	Q44331	28258	296396	5	55
 267	2006	2008	2010	2012	2018		Kim	Kipling, Rudyard	1) core list		791	English	1900s		Q589868	Q34743	176409	1960701	29	119
 268	2006	2008	2010	2012	2018		Buddenbrooks	Mann, Thomas	1) core list		225	German	1900s		Q326909	Q37030	340804	1598485	40	117
 269	2006	2008	2010	2012	2018		The Hound of the Baskervilles	Doyle, Arthur Conan	1) core list		95	English	1900s		Q45192	Q35610	946832	2279991	53	120
@@ -273,9 +273,9 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 272	2006	2008	2010	2012	2018		The Immoralist	Gide, André	1) core list		961	French	1900s		Q174626	Q47484	42812	583242	10	95
 273	2006	2008	2010	2012	2018		The Ambassadors	James, Henry	1) core list		997	American	1900s		Q650571	Q170509	38588	708927	12	73
 274	2006						The Golden Bowl	James, Henry	2) Deleted 2008		814	American	1900s		Q1248585	Q170509	47670	708927	11	73
-275	2006	2008	2010	2012	2018		The Riddle of the Sands	Childers, Erskine	1) core list		980	Irish	1900s		Q1170204	Q356450	43132	61576	3	34
+275	2006	2008	2010	2012	2018		The Riddle of the Sands	Childers, Erskine	1) core list		980	Irish	1900s		Q1170204	Q1270441	43132	103764	3	21
 276		2008	2010	2012	2018		The Call of the Wild	London, Jack	3) Added 2008		412	American	1900s		Q476871	Q45765	750847	1756525	44	95
-277		2008	2010	2012	2018		Memoirs of my Nervous Illness	Schreber, Daniel Paul	3) Added 2008	Denkwürdigkeiten eines Nervenkranken  	393		1900s			Q62468		67743	0	13
+277		2008	2010	2012	2018		Memoirs of my Nervous Illness	Schreber, Daniel Paul	3) Added 2008	Denkwürdigkeiten eines Nervenkranken	393		1900s		Q127698915	Q62468		67743	0	13
 278		2008	2010	2012	2018		The Way of All Flesh	Butler, Samuel	3) Added 2008		981	English	1900s		Q255074	Q258766	38418	19281	9	27
 279	2006	2008	2010	2012	2018		Hadrian the Seventh	Rolfe, Frederick	1) core list		1206	English	1900s		Q5638060	Q1289140	6452	23516	5	15
 280	2006	2008	2010	2012	2018		Nostromo	Conrad, Joseph	1) core list		613	English	1900s		Q430248	Q82925	175936	1488757	18	88
@@ -302,28 +302,28 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 301	2006	2008	2010	2012	2018		Impressions of Africa	Roussel, Raymond	1) core list		678	French	1900s		Q3149476	Q462662	2528	48062	2	23
 302	2006	2008	2010	2012	2018		Fantômas	Allain, Marcel	1) core list		959	French	1900s		Q16635857	Q971735	5668	16105	3	12
 303	2006	2008	2010	2012	2018		Ethan Frome	Wharton, Edith	1) core list		1096	American	1900s		Q5402934	Q276032	122254	521511	14	62
-304	2006	2008	2010	2012	2018		The Charwoman’s Daughter	Stephens, James	1) core list		1194	Irish	1900s			Q508101		16289	0	10
+304	2006	2008	2010	2012	2018		The Charwoman’s Daughter	Stephens, James	1) core list		1194	Irish	1900s		Q127698993	Q508101		16289	0	10
 305	2006	2008	2010	2012	2018		Death in Venice	Mann, Thomas	1) core list		668	German	1900s		Q828296	Q37030	470592	1598485	37	117
 306	2006	2008	2010	2012	2018		Sons and Lovers	Lawrence, D.H.	1) core list		1022	English	1900s		Q80771	Q34970	150476	813303	24	76
 307	2006	2008	2010	2012	2018		The Ragged Trousered Philanthropists	Tressell, Robert	1) core list		488	Irish	1900s		Q7759270	Q7350472	45768	17621	2	3
-308		2008	2010	2012	2018		Platero and I	Jiménez, Juan Ramón	3) Added 2008	Platero y yo  	570	Spanish	1900s		Q2916224	Q131318	111386	277193	13	87
+308		2008	2010	2012	2018		Platero and I	Jiménez, Juan Ramón	3) Added 2008	Platero y yo	570	Spanish	1900s		Q2916224	Q131318	111386	277193	13	87
 309	2006	2008	2010	2012	2018		Tarzan of the Apes	Burroughs, Edgar Rice	1) core list		448	American	1900s		Q655296	Q148234	202224	510745	21	74
-310	2006						Rosshalde	Hesse, Herman	2) Deleted 2008		784	German	1900s		Q2171354	Q25973	11239	1690555	8	113
+310	2006						Rosshalde	Hesse, Hermann	2) Deleted 2008		784	German	1900s		Q2171354	Q25973	11239	1690555	8	113
 311	2006	2008	2010	2012	2018		Locus Solus	Roussel, Raymond	1) core list		238	French	1900s		Q2913641	Q462662	17518	48062	7	23
-312	2006	2008	2010	2012	2018		Kokoro	Natsume, Soseki 	1) core list		232	Japanese	1900s		Q2623003	Q180903	290931	986934	15	53
+312	2006	2008	2010	2012	2018		Kokoro	Natsume, Soseki	1) core list		232	Japanese	1900s		Q2623003	Q180903	290931	986934	15	53
 313	2006	2008	2010	2012	2018		The Thirty-Nine Steps	Buchan, John	1) core list		863	Scottish	1900s		Q2609365	Q333004	130353	123734	16	38
 314	2006	2008	2010	2012	2018		The Rainbow	Lawrence, D.H.	1) core list		941	English	1900s		Q3288936	Q34970	82508	813303	11	76
 315	2006	2008	2010	2012	2018		Of Human Bondage	Maugham, W. Somerset	1) core list		220	English	1900s		Q1195793	Q134942	263021	870818	20	76
 316	2006						The Voyage Out	Woolf, Virginia	2) Deleted 2008		770	English	1900s		Q599198	Q40909	33655	3230998	9	109
 317	2006	2008	2010	2012	2018		The Good Soldier	Ford, Ford Madox	1) core list		802	English	1900s		Q767802	Q537112	48713	106913	9	33
-318	2006	2008	2010	2012	2018		Rashomon	Akutagawa, Ryunosuke 	1) core list		125	Japanese	1900s		Q1076912	Q186326	310437	1424964	22	68
+318	2006	2008	2010	2012	2018		Rashomon	Akutagawa, Ryunosuke	1) core list		125	Japanese	1900s		Q1076912	Q186326	310437	1424964	22	68
 319	2006	2008	2010	2012	2018		Under Fire	Barbusse, Henri	1) core list		767	French	1900s		Q1167837	Q18404	32462	119598	12	54
 320	2006	2008	2010	2012	2018		A Portrait of the Artist as a Young Man	Joyce, James	1) core list		935	Irish	1900s		Q465360	Q6882	280393	1680742	42	154
 321	2006						Bunner Sisters	Wharton, Edith	2) Deleted 2008		877	American	1900s		Q56064179	Q276032	1833	521511	2	62
-322		2008	2010	2012	2018		The Underdogs	Azuela, Mariano	3) Added 2008	Los de abajo  	885		1900s		Q3890709	Q355676	43589	43526	6	27
+322		2008	2010	2012	2018		The Underdogs	Azuela, Mariano	3) Added 2008	Los de abajo	885		1900s		Q3890709	Q355676	43589	43526	6	27
 323		2008	2010	2012	2018		Pallieter	Timmermans, Felix	3) Added 2008		1261		1900s		Q21465365	Q713284	7947	18459	3	21
 324		2008	2010	2012	2018		The Home and the World	Tagore, Rabindranath	3) Added 2008		614		1900s		Q7740074	Q7241	91641	4068155	8	161
-325	2006	2008	2010	2012	2018		Growth of the Soil	Hamsun, Knut	1) core list		199	Norwegian	1900s		Q2266122	Q40826	61326	437929	18	103
+325	2006	2008	2010	2012	2018		Growth of the Soil	Hamsun, Knut	1) core list		199	Norwegian	1900s		Q2266122	Q40826	61326	437929	18	102
 326	2006						Summer	Wharton, Edith	2) Deleted 2008		804	American	1900s		Q7637251	Q276032	14107	521511	3	62
 327	2006						The Shadow Line	Conrad, Joseph	2) Deleted 2008		768	English	1900s		Q1120858	Q82925	44971	1488757	10	88
 328	2006	2008	2010	2012	2018		The Return of the Soldier	West, Rebecca	1) core list		769	English	1900s		Q7760466	Q236669	13095	104332	3	40
@@ -344,7 +344,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 343	2006	2008	2010	2012	2018		Life and Death of Harriett Frean	Sinclair, May	1) core list		1103	English	1900s		Q19572638	Q1131497	1394	13556	2	14
 344	2006						The Glimpses of the Moon	Wharton, Edith	2) Deleted 2008		627	American	1900s		Q30717034	Q276032	3220	521511	2	62
 345		2008	2010	2012	2018		The Forest of the Hanged	Rebreanu, Liviu	3) Added 2008		342		1900s		Q15731603	Q462220	66141	123070	9	26
-346	2006	2008	2010	2012	2018		Siddhartha	Hesse, Herman	1) core list		162	German	1900s		Q457289	Q25973	861828	1690555	45	113
+346	2006	2008	2010	2012	2018		Siddhartha	Hesse, Hermann	1) core list		162	German	1900s		Q457289	Q25973	861828	1690555	45	113
 347	2006						Jacob’s Room	Woolf, Virginia	2) Deleted 2008		1043	English	1900s		Q1677745	Q40909	27520	3230998	12	109
 348	2006	2008	2010	2012	2018		The Enormous Room	Cummings, E.E.	1) core list		790	American	1900s		Q2389737	Q298703	10702	296104	3	46
 349	2006						The Garden Party	Mansfield, Katherine	2) Deleted 2008		457	New Zealand	1900s		Q7735827	Q270632	46011	319518	4	51
@@ -357,7 +357,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 356	2006	2008	2010	2012	2018		A Passage to India	Forster, E.M.	1) core list		861	English	1900s		Q622303	Q189119	250196	511769	21	62
 357	2006	2008	2010	2012	2018		We	Zamyatin, Yevgeny	1) core list		322	Russian	1900s		Q83799	Q204868	597888	299358	37	59
 358	2006	2008	2010	2012	2018		The Magic Mountain	Mann, Thomas	1) core list		221	German	1900s		Q212898	Q37030	794055	1598485	40	117
-359	2006	2008	2010	2012	2018		The Green Hat	Arlen, Michael	1) core list		1269	Bulgarian	1900s		Q105043808	Q115683	2876	18943	1	15
+359	2006	2008	2010	2012	2018		The Green Hat	Arlen, Michael	1) core list		1269	Bulgarian	1900s		Q123358176	Q115683	1918	18943	1	15
 360	2006						Billy Budd, Foretopman	Melville, Herman	2) Deleted 2008		1249	American	1900s		Q863037	Q4985	165415	930703	15	89
 361		2008	2010				The New World	Heruy Wolde Selassie	6) Deleted 2012		1317		1900s			Q3134389		6967	0	10
 362	2006	2008	2010	2012	2018		The Professor’s House	Cather, Willa	1) core list		723	American	1900s		Q7758486	Q229480	9236	275974	2	45
@@ -383,7 +383,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 382	2006	2008	2010	2012	2018		Tarka the Otter	Williamson, Henry	1) core list		795	English	1900s		Q7686243	Q1278677	30635	30995	1	11
 383	2006	2008	2010	2012	2018		To The Lighthouse	Woolf, Virginia	1) core list		590	English	1900s		Q478016	Q40909	346938	3230998	33	109
 384	2006	2008	2010	2012	2018		Remembrance of Things Past	Proust, Marcel	1) core list	A la recherche du temps perdu (In Search of Lost Time)	1234	French	1900s		Q464928	Q7199	1725508	1665375	48	137
-385	2006	2008	2010	2012	2018		Steppenwolf	Hesse, Herman	1) core list		89	German	1900s		Q217073	Q25973	665440	1690555	44	113
+385	2006	2008	2010	2012	2018		Steppenwolf	Hesse, Hermann	1) core list		89	German	1900s		Q217073	Q25973	665440	1690555	44	113
 386	2006	2008	2010	2012	2018		Nadja	Breton, André	1) core list		960	French	1900s		Q1816820	Q161955	76383	561207	14	71
 387	2006	2008	2010	2012	2018		Quicksand	Larsen, Nella	1) core list		880		1900s		Q24902061	Q453665	12042	58485	1	25
 388	2006	2008	2010	2012	2018		Decline and Fall	Waugh, Evelyn	1) core list		544	English	1900s		Q3115185	Q107002	63553	492561	7	56
@@ -395,7 +395,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 394	2006	2008	2010	2012	2018		Lady Chatterley’s Lover	Lawrence, D.H.	1) core list		1046	English	1900s		Q750670	Q34970	960526	813303	38	76
 395	2006	2008	2010	2012	2018		Orlando	Woolf, Virginia	1) core list		429	English	1900s		Q1629456	Q40909	382551	3230998	25	109
 396	2006	2008	2010	2012	2018		Story of the Eye	Bataille, Georges	1) core list		801	French	1900s		Q2747021	Q207359	115993	488275	10	49
-397		2008	2010	2012	2018		Retreat Without Song	Shahnour, Shahan	3) Added 2008		588		1900s			Q2862197		12731	0	9
+397		2008	2010	2012	2018		Retreat Without Song	Shahnour, Shahan	3) Added 2008		588		1900s		Q20509885	Q2862197	14556	12731	1	9
 398	2006	2008	2010	2012	2018		The Holy Terrors	Cocteau, Jean	1) core list	Les Enfants Terribles	689	French	1900s		Q2542978	Q83158	89738	989782	7	85
 399	2006						The Sound and the Fury	Faulkner, William	2) Deleted 2008		486	American	1900s		Q135515	Q38392	564091	1386727	33	106
 400	2006						Harriet Hume	West, Rebecca	2) Deleted 2008		1271	English	1900s		Q42185068	Q236669		104332	0	40
@@ -425,7 +425,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 424	2006						Sunset Song	Gibbon, Lewis Grassic	2) Deleted 2008		446	Scottish	1900s		Q3655833	Q650800	18927	18129	3	9
 425		2008	2010	2012	2018		The Return of Philip Latinowicz	Krleža, Miroslav	3) Added 2008		1098		1900s		Q1215882	Q325428	13017	109957	5	37
 426	2006	2008	2010	2012	2018		The Radetzky March	Roth, Joseph	1) core list		217		1900s		Q610428	Q78509	102569	269333	16	50
-427		2008	2010	2012	2018		The Forbidden Realm	Slauerhoff, Jan Jacob	3) Added 2008	Het verboden rijk  	1121		1900s		Q2310834	Q561650	2435	19532	3	17
+427		2008	2010	2012	2018		The Forbidden Realm	Slauerhoff, Jan Jacob	3) Added 2008	Het verboden rijk	1121		1900s		Q2310834	Q561650	2435	19532	3	17
 428	2006	2008	2010	2012	2018		Cold Comfort Farm	Gibbons, Stella	1) core list		370	English	1900s		Q5142221	Q1252645	51354	24316	5	23
 429	2006	2008	2010	2012	2018		Brave New World	Huxley, Aldous	1) core list		244	English	1900s		Q191949	Q81447	2594757	1574877	53	92
 430		2008	2010	2012	2018		Vipers' Tangle	Mauriac, Francois	3) Added 2008	Le Nœud de vipères, Knot of Vipers	272		1900s		Q3225099	Q81685	17794	233280	6	89
@@ -466,7 +466,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 465	2006	2008	2010	2012	2018		Gone With the Wind	Mitchell, Margaret	1) core list		136	American	1900s		Q2870	Q173540	1157981	438721	51	82
 466	2006	2008	2010	2012	2018		The Thinking Reed	West, Rebecca	1) core list		1259	English	1900s			Q236669		104332	0	40
 467	2006	2008	2010	2012	2018		Eyeless in Gaza	Huxley, Aldous	1) core list		717	German	1900s		Q5422772	Q81447	67410	1574877	5	92
-468	2006	2008	2010	2012	2018		Summer Will Show	Warner, Sylvia Townsend 	1) core list		1187	English	1900s			Q462270		30505	0	14
+468	2006	2008	2010	2012	2018		Summer Will Show	Warner, Sylvia Townsend	1) core list		1187	English	1900s			Q462270		30505	0	14
 469	2006						To Have and Have Not	Hemingway, Ernest	2) Deleted 2008		972	American	1900s		Q538390	Q23434	96729	5732463	25	148
 470		2008	2010	2012	2018		Rickshaw Boy	Lao, She	3) Added 2008		812		1900s		Q3140506	Q315167	67483	190173	11	44
 471	2006	2008	2010	2012	2018		Out of Africa	Dinesen, Isak	1) core list		371	Danish	1900s		Q1756234	Q182804	154739	765144	16	70
@@ -486,7 +486,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 485	2006	2008	2010	2012	2018		Rebecca	Du Maurier, Daphne	1) core list		55	English	1900s		Q1334940	Q193357	643653	702170	29	61
 486	2006	2008	2010	2012	2018		Nausea	Sartre, Jean-Paul	1) core list	La Nausée	319	French	1900s		Q658288	Q9364	411411	2818384	37	142
 487	2006	2008	2010	2012	2018		Miss Pettigrew Lives for a Day	Watson, Winifred	1) core list		292	English	1900s		Q38780970	Q8025429	5770	3806	2	4
-488	2006						After the Death of Don Juan	Warner, Sylvia Townsend 	2) Deleted 2008		1308	English	1900s			Q462270		30505	0	14
+488	2006						After the Death of Don Juan	Warner, Sylvia Townsend	2) Deleted 2008		1308	English	1900s			Q462270		30505	0	14
 489		2008	2010	2012	2018		On the Edge of Reason	Krleža, Miroslav	3) Added 2008		36		1900s		Q16512299	Q325428	7500	109957	4	37
 490	2006	2008	2010	2012	2018		The Big Sleep	Chandler, Raymond	1) core list		195	American	1900s		Q1649862	Q180377	225901	615071	26	62
 491	2006	2008	2010	2012	2018		Goodbye to Berlin	Isherwood, Christopher	1) core list		348	English	1900s		Q3605099	Q310111	83640	251068	9	40
@@ -515,7 +515,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 514	2006						Go Down, Moses	Faulkner, William	2) Deleted 2008		439	American	1900s		Q2065524	Q38392	26107	1386727	7	106
 515	2006	2008	2010	2012	2018		Embers	Marai, Sandor	1) core list		315	Hungarian	1900s		Q366726	Q36951	61536	205972	10	44
 516		2008	2010	2012	2018		Chess Story	Zweig, Stefan	3) Added 2008		10		1900s		Q1513820	Q78491	700367	1605134	28	83
-517	2006	2008	2010	2012	2018		The Glass Bead Game	Hesse, Herman	1) core list		204	German	1900s		Q836841	Q25973	372411	1690555	28	113
+517	2006	2008	2010	2012	2018		The Glass Bead Game	Hesse, Hermann	1) core list		204	German	1900s		Q836841	Q25973	372411	1690555	28	113
 518	2006						Caught	Green, Henry	2) Deleted 2008		1205	English	1900s			Q1285562		27522	0	15
 519		2008	2010	2012	2018		Joseph and His Brothers	Mann, Thomas	3) Added 2008		257	German	1900s		Q282181	Q37030	105508	1598485	18	117
 520	2006	2008	2010	2012	2018		The Little Prince	Saint-Exupéry, Antoine de	1) core list	Le petit prince	8	French	1900s		Q25338	Q2908	3734607	2223119	114	112
@@ -528,11 +528,11 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 527	2006						The Pursuit of Love	Mitford, Nancy	2) Deleted 2008		336	English	1900s		Q3576797	Q260026	44010	194373	3	27
 528	2006						Cannery Row	Steinbeck, John	2) Deleted 2008		150	American	1900s		Q1216542	Q39212	129648	1725273	13	106
 529	2006	2008	2010	2012	2018		Animal Farm	Orwell, George	1) core list		263	English	1900s		Q1396889	Q3335	3115397	3995278	92	140
-530	2006	2008	2010	2012	2018		The Bridge on the Drina	Andrić, Ivo	1) core list		16	Bosnian	1900s		Q1247865	Q47561	180518	436628	33	90
+530	2006	2008	2010	2012	2018		The Bridge on the Drina	Andrić, Ivo	1) core list		16	Bosnian	1900s		Q1247865	Q47561	180518	436628	33	89
 531	2006	2008	2010	2012	2018		Christ Stopped at Eboli	Levi, Carlo	1) core list	Cristo si è fermato ad Eboli	192	Italian	1900s		Q1087239	Q312628	132697	145756	12	36
 532	2006	2008	2010	2012	2018		Arcanum 17	Breton, André	1) core list		1242	French	1900s		Q2859941	Q161955	3974	561207	2	71
 533	2006	2008	2010	2012	2018		Brideshead Revisited	Waugh, Evelyn	1) core list		254	English	1900s		Q6992413	Q107002	501997	492561	23	56
-534		2008	2010	2012	2018		Bosnian Chronicle	Andrić, Ivo	3) Added 2008		102	Bosnian	1900s		Q824338	Q47561	13452	436628	9	90
+534		2008	2010	2012	2018		Bosnian Chronicle	Andrić, Ivo	3) Added 2008		102	Bosnian	1900s		Q824338	Q47561	13452	436628	9	89
 535		2008	2010	2012	2018		The Tin Flute	Roy, Gabrielle	3) Added 2008		906		1900s		Q2910080	Q294999	23201	55772	2	27
 536		2008	2010	2012	2018		Nada	Laforet, Carmen	3) Added 2008		539		1900s		Q1623656	Q269123	82510	102085	10	22
 537		2008	2010	2012	2018		The Death of Virgil	Broch, Hermann	3) Added 2008		218		1900s		Q668105	Q84150	29230	92260	9	39
@@ -548,7 +548,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 547	2006	2008	2010	2012	2018		The Plague	Camus, Albert	1) core list		266	Algerian/French	1900s		Q320372	Q34670	647452	3837542	50	137
 548	2006	2008	2010	2012	2018		Doctor Faustus	Mann, Thomas	1) core list		260	German	1900s		Q386431	Q37030	204895	1598485	27	117
 549		2008	2010	2012	2018		Midaq Alley	Mahfouz, Naguib	3) Added 2008		546		1900s		Q510850	Q7176	40669	651347	9	138
-550		2008	2010	2012	2018		Froth on the Daydream	Vian, Boris	3) Added 2008	L'Écume des jours  	281		1900s		Q645906	Q7833	203607	444059	24	57
+550		2008	2010	2012	2018		Froth on the Daydream	Vian, Boris	3) Added 2008	L'Écume des jours	281		1900s		Q645906	Q7833	203607	444059	24	57
 551		2008	2010	2012	2018		Journey to the Alcarria	Cela, Camilo Jose	3) Added 2008		1093		1900s		Q30006553	Q132589	10154	254424	3	82
 552		2008	2010	2012	2018		Ashes and Diamonds	Andrzejewski, Jerzy	3) Added 2008		1031		1900s		Q4804888	Q347767	22054	45430	7	28
 553	2006	2008	2010	2012	2018		Disobedience	Moravia, Alberto	1) core list	La disubbidienza	1265	Italian	1900s		Q56300457	Q161933	1095	363714	1	65
@@ -572,8 +572,8 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 571	2006	2008	2010	2012	2018		Gormenghast	Peake, Mervyn	1) core list		367	English	1900s		Q728841	Q6515	176606	97473	10	23
 572	2006	2008	2010	2012	2018		The 13 Clocks	Thurber, James	1) core list		193	American	1900s		Q7711755	Q124527	8318	129677	2	29
 573	2006						The Third Man	Greene, Graham	2) Deleted 2008		508	English	1900s		Q3227851	Q128560	21224	750910	4	81
-574	2006	2008	2010	2012	2018		The Labyrinth of Solitude	Paz, Octavio	1) core list	El Laberinto De La Soledad  	77	Mexican	1900s		Q645470	Q46739	72678	493461	5	94
-575	2006	2008	2010	2012	2018		The Abbot C	Bataille, Georges	1) core list	L'Abbé C  	1201	French	1900s		Q6455485	Q207359	6099	488275	3	49
+574	2006	2008	2010	2012	2018		The Labyrinth of Solitude	Paz, Octavio	1) core list	El Laberinto De La Soledad	77	Mexican	1900s		Q645470	Q46739	72678	493461	5	94
+575	2006	2008	2010	2012	2018		The Abbot C	Bataille, Georges	1) core list	L'Abbé C	1201	French	1900s		Q6455485	Q207359	6099	488275	3	49
 576		2008	2010	2012	2018		The Guiltless	Broch, Hermann	3) Added 2008		1142		1900s		Q1216079	Q84150	1877	92260	1	39
 577		2008	2010	2012	2018		Barabbas	Lagerkvist, Par	3) Added 2008		558		1900s		Q547731	Q93137	20197	86581	10	81
 578	2006	2008	2010	2012	2018		The End of the Affair	Greene, Graham	1) core list		277	English	1900s		Q905112	Q128560	78697	750910	9	81
@@ -586,11 +586,11 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 585	2006	2008	2010	2012	2018		Day of the Triffids	Wyndham, John	1) core list		197	English	1900s		Q1216940	Q313673	271119	139544	24	35
 586	2006	2008	2010	2012	2018		Memoirs of Hadrian	Yourcenar, Marguerite	1) core list		42	Belgium	1900s		Q1233795	Q163118	199350	407194	21	69
 587	2006						The Killer Inside Me	Thompson, Jim	2) Deleted 2008		573	American	1900s		Q2275587	Q433800	30701	103315	6	25
-588		2008	2010	2012	2018		The Hive	Cela, Camilo Jose	3) Added 2008	La colmena  	760		1900s		Q3212510	Q132589	51275	254424	8	82
+588		2008	2010	2012	2018		The Hive	Cela, Camilo Jose	3) Added 2008	La colmena	760		1900s		Q3212510	Q132589	51275	254424	8	82
 589	2006	2008	2010	2012	2018		Wise Blood	O'Connor, Flannery	1) core list		479	American	1900s		Q4305774	Q234579	85174	506451	6	44
 590	2006	2008	2010	2012	2018		The Old Man and the Sea	Hemingway, Ernest	1) core list		554	American	1900s		Q26505	Q23434	1744207	5732463	77	148
 591	2006	2008	2010	2012	2018		Invisible Man	Ellison, Ralph	1) core list		623	American	1900s		Q1784288	Q299965	311069	180135	18	44
-592	2006	2008	2010	2012	2018		The Judge and His Hangman	Dürrenmatt, Friedrich	1) core list	Der Richter und sein Henker  	744	Swiss	1900s		Q379015	Q23481	77110	380522	8	64
+592	2006	2008	2010	2012	2018		The Judge and His Hangman	Dürrenmatt, Friedrich	1) core list	Der Richter und sein Henker	744	Swiss	1900s		Q379015	Q23481	77110	380522	8	64
 593		2008	2010	2012	2018		Excellent Women	Pym, Barbara	3) Added 2008		388		1900s		Q5419435	Q272585	10217	48599	3	19
 594		2008	2010	2012	2018		A Thousand Cranes	Kawabata, Yasunari	3) Added 2008		649	Japanese	1900s		Q1132230	Q43736	45326	843268	17	109
 595	2006	2008	2010	2012	2018		Go Tell It on the Mountain	Baldwin, James	1) core list		205	American	1900s		Q1444052	Q273210	166856	2318470	12	51
@@ -619,13 +619,13 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 618	2006	2008	2010	2012	2018		I’m Not Stiller	Frisch, Max	1) core list		279	Swiss	1900s		Q689669	Q115483	45253	312739	8	54
 619	2006	2008	2010	2012	2018		The Ragazzi	Pasolini, Pier Paulo	1) core list		921	Italian	1900s		Q3929379	Q25120	50005	1836653	6	77
 620	2006	2008	2010	2012	2018		The Recognitions	Gaddis, William	1) core list		310	American	1900s		Q1212808	Q456958	45994	74929	2	26
-621		2008	2010	2012	2018		The Burning Plain	Rulfo, Juan	3) Added 2008	El Llano en llamas  	50		1900s		Q1195272	Q200661	90391	375789	10	51
+621		2008	2010	2012	2018		The Burning Plain	Rulfo, Juan	3) Added 2008	El Llano en llamas	50		1900s		Q1195272	Q200661	90391	375789	10	51
 622	2006	2008	2010	2012	2018		The Quiet American	Greene, Graham	1) core list		237	English	1900s		Q1199651	Q128560	140074	750910	20	81
 623	2006	2008	2010	2012	2018		The Trusting and the Maimed	Plunkett, James	1) core list		1300	Irish	1900s			Q6141341		4400	0	4
 624	2006						A World of Love	Bowen, Elizabeth	2) Deleted 2008		1251	Irish	1900s		Q4003940	Q235308	66	69257	1	28
 625		2008	2010	2012	2018		The Tree of Man	White, Patrick	3) Added 2008		572		1900s		Q5839903	Q129187	10309	97736	4	82
 626	2006	2008	2010	2012	2018		The Last Temptation of Christ	Kazantzákis, Nikos	1) core list		146	Greek	1900s		Q1323860	Q214622	125409	501747	18	59
-627		2008	2010	2012	2018		The Devil to Pay in the Backlands	Rosa, João Guimarães 	3) Added 2008	Grande Sertão: Veredas  	5		1900s		Q1891393	Q13012	84144	125500	9	32
+627		2008	2010	2012	2018		The Devil to Pay in the Backlands	Rosa, João Guimarães	3) Added 2008	Grande Sertão: Veredas	5		1900s		Q1891393	Q13012	84144	125500	9	32
 628	2006	2008	2010	2012	2018		Lolita	Nabokov, Vladimir	1) core list		420	Russian/American	1900s		Q127149	Q36591	1588131	1589754	67	113
 629	2006	2008	2010	2012	2018		The Talented Mr. Ripley	Highsmith, Patricia	1) core list		360	Swiss	1900s		Q472026	Q270635	472238	603610	24	48
 630	2006	2008	2010	2012	2018		The Lord of the Rings	Tolkien, J.R.R.	1) core list		35	English	1900s		Q15228	Q892	5322052	5533813	114	154
@@ -640,7 +640,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 639	2006	2008	2010	2012	2018		Doctor Zhivago	Pasternak, Boris	1) core list		332	Russian	1900s		Q206870	Q41223	803624	1048353	47	105
 640	2006	2008	2010	2012	2018		Pnin	Nabokov, Vladimir	1) core list		366	Russian/American	1900s		Q289815	Q36591	26704	1589754	13	113
 641	2006	2008	2010	2012	2018		On the Road	Kerouac, Jack	1) core list		897	American	1900s		Q743180	Q160534	917842	1301652	41	75
-642		2008	2010	2012	2018		The Manila Rope	Meri, Veijo	3) Added 2008	Manillaköysi  	1267		1900s		Q11880758	Q543798	6808	13100	1	28
+642		2008	2010	2012	2018		The Manila Rope	Meri, Veijo	3) Added 2008	Manillaköysi	1267		1900s		Q11880758	Q543798	6808	13100	1	28
 643		2008	2010	2012	2018		The Deadbeats	Ruyslinck, Ward	3) Added 2008		1281		1900s			Q2246863		4674	0	8
 644	2006	2008	2010	2012	2018		Homo Faber	Frisch, Max	1) core list		706	Swiss	1900s		Q667004	Q115483	213055	312739	18	54
 645	2006	2008	2010	2012	2018		Blue of Noon	Bataille, Georges	1) core list		818	French	1900s		Q3220470	Q207359	14622	488275	3	49
@@ -659,7 +659,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 658	2006	2008	2010	2012	2018		The Bitter Glass	Dillon, Eilís	1) core list		1314	Irish	1900s			Q1567235		3404	0	8
 659		2008	2010	2012	2018		The Guide	Narayan, R.K.	3) Added 2008		404		1900s		Q7738453	Q334252	91864	618120	7	45
 660	2006	2008	2010	2012	2018		The Leopard	Tomasi di Lampedusa, Giuseppe	1) core list	Il Gattopardo	269	Italian	1900s		Q1193736	Q213482	517980	219809	28	47
-661		2008	2010	2012	2018		Deep Rivers	Arguedas, José María	3) Added 2008	Los ríos profundos  	811		1900s		Q656771	Q266816	176398	529646	6	31
+661		2008	2010	2012	2018		Deep Rivers	Arguedas, José María	3) Added 2008	Los ríos profundos	811		1900s		Q656771	Q266816	176398	529646	6	31
 662	2006	2008	2010	2012	2018		Breakfast at Tiffany’s	Capote, Truman	1) core list		339	American	1900s		Q849930	Q134180	458782	3621460	32	77
 663	2006	2008	2010	2012	2018		Pluck the Bud and Destroy the Offspring	Oe, Kenzaburo	1) core list		628	Japanese	1900s		Q5227743	Q80095	25015	1076282	4	94
 664	2006	2008	2010	2012	2018		Billiards at Half-Past Nine	Böll, Heinrich	1) core list		451	German	1900s		Q655773	Q42747	26357	424293	7	95
@@ -675,14 +675,14 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 674	2006	2008	2010	2012	2018		Rabbit, Run	Updike, John	1) core list		985	American	1900s		Q178791	Q105756	121420	392737	11	70
 675	2006	2008	2010	2012	2018		To Kill a Mockingbird	Lee, Harper	1) core list		21	American	1900s		Q212340	Q182658	2580707	1049057	55	86
 676		2008	2010	2012	2018		The Magician of Lublin	Singer, Isaac Bashevis	3) Added 2008		461		1900s		Q9352340	Q75612	21394	311658	11	90
-677		2008	2010	2012	2018		Halftime	Walser, Martin	3) Added 2008	Halbzeit  	1313		1900s		Q106913793	Q57387		459669	0	38
+677		2008	2010	2012	2018		Halftime	Walser, Martin	3) Added 2008	Halbzeit	1313		1900s		Q106913793	Q57387		459669	0	38
 678	2006	2008	2010	2012	2018		The Country Girls	O'Brien, Edna	1) core list		912	Irish	1900s		Q7727791	Q178225	26348	92839	1	27
 679	2006						Our Ancestors	Calvino, Italo	2) Deleted 2008		68	Italian	1900s		Q3791080	Q154756	34673	988659	3	67
 680	2006						How It Is	Beckett, Samuel	2) Deleted 2008		284	Irish	1900s		Q498529	Q37327	11974	1307056	7	108
 681	2006						The Violent Bear it Away	O'Connor, Flannery	2) Deleted 2008		104	American	1900s		Q7772743	Q234579	34421	506451	2	44
 682		2008	2010	2012	2018		Bebo's Girl	Cassola, Carlo	3) Added 2008	La ragazza di Bube	998	Italian	1900s		Q3212134	Q530655	27755	29006	4	18
 683		2008	2010	2012	2018		God's Bits of Wood	Sembene, Ousmane	3) Added 2008		444		1900s		Q3231133	Q314966	16984	129037	2	42
-684		2008	2010	2012	2018		The Shipyard	Onetti, Juan Carlos	3) Added 2008	El astillero  	718		1900s		Q16653485	Q16873	62	94730	1	39
+684		2008	2010	2012	2018		The Shipyard	Onetti, Juan Carlos	3) Added 2008	El astillero	718		1900s		Q16653485	Q16873	62	94730	1	39
 685	2006	2008	2010	2012	2018		Catch-22	Heller, Joseph	1) core list		333	American	1900s		Q278208	Q208101	1112889	234360	40	52
 686	2006	2008	2010	2012	2018		Solaris	Lem, Stanislaw	1) core list		233	Polish	1900s		Q261281	Q6530	450611	795770	45	78
 687	2006	2008	2010	2012	2018		Cat and Mouse	Grass, Günter	1) core list		1024	Polish	1900s		Q1736859	Q6538	32577	514913	11	111
@@ -691,7 +691,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 690	2006	2008	2010	2012	2018		Franny and Zooey	Salinger, J.D.	1) core list		223	American	1900s		Q1445395	Q79904	157747	1398607	18	87
 691		2008	2010	2012	2018		No One Writes to the Colonel	García Márquez, Gabriel	3) Added 2008		435		1900s		Q1132408	Q5878	201975	2940272	35	156
 692	2006	2008	2010	2012	2018		Faces in the Water	Frame, Janet	1) core list		299	New Zealand	1900s		Q42184657	Q241215		187792	0	24
-693		2008	2010	2012	2018		Memoirs of a Peasant Boy	Neira Vilas, Xosé 	3) Added 2008		591		1900s		Q11692035	Q3322486	5943	9130	7	8
+693		2008	2010	2012	2018		Memoirs of a Peasant Boy	Neira Vilas, Xosé	3) Added 2008		591		1900s		Q11692035	Q3322486	5943	9130	7	8
 694	2006	2008	2010	2012	2018		Stranger in a Strange Land	Heinlein, Robert	1) core list		478		1900s		Q929821	Q123078	416481	939313	30	71
 695	2006	2008	2010	2012	2018		The Garden of the Finzi-Continis	Bassani, Giorgio	1) core list	Il giardino dei Finzi-Contini	617	Italian	1900s		Q533391	Q318309	126004	93062	13	32
 696	2006	2008	2010	2012	2018		Girl With Green Eyes	O'Brien, Edna	1) core list		954	Irish	1900s		Q126938858	Q178225		92839	1	27
@@ -704,7 +704,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 703	2006	2008	2010	2012	2018		One Flew Over the Cuckoo’s Nest	Kesey, Ken	1) core list		52	American	1900s		Q857313	Q244390	590114	452861	28	56
 704	2006						The Collector	Fowles, John	2) Deleted 2008		245	English	1900s		Q1196602	Q214660	204999	183819	17	46
 705		2008	2010	2012	2018		The Death of Artemio Cruz	Fuentes, Carlos	3) Added 2008		538		1900s		Q2030203	Q154691	48921	323827	8	67
-706		2008	2010	2012	2018		The Time of the Hero	Vargas Llosa, Mario	3) Added 2008	La ciudad y los perros  	164	Peruvian	1900s		Q763199	Q39803	187252	1285480	17	94
+706		2008	2010	2012	2018		The Time of the Hero	Vargas Llosa, Mario	3) Added 2008	La ciudad y los perros	164	Peruvian	1900s		Q763199	Q39803	187252	1285480	17	94
 707	2006	2008	2010	2012	2018		One Day in the Life of Ivan Denisovich	Solzhenitsyn, Aleksandr	1) core list		258	Russian	1900s		Q27321	Q34474	270733	1774031	33	118
 708		2008	2010	2012	2018		The Third Wedding	Taktsis, Costas	3) Added 2008		141		1900s		Q42196465	Q3201193		28630	0	7
 709		2008	2010	2012	2018		Dog Years	Grass, Günter	3) Added 2008		893	Polish	1900s		Q499564	Q6538	18946	514913	11	111
@@ -721,18 +721,18 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 720	2006	2008	2010	2012	2018		Arrow of God	Achebe, Chinua	1) core list		626	Nigerian	1900s		Q4796152	Q155845	48369	554943	8	88
 721	2006						Albert Angelo	Johnson, B.S.	2) Deleted 2008		693	English	1900s		Q4709639	Q795238	2636	18222	1	13
 722	2006						Come Back, Dr. Caligari	Barthelme, Donald	2) Deleted 2008		638	American	1900s			Q353869		52874	0	29
-723		2008	2010	2012	2018		Three Trapped Tigers	Cabrera Infante, Guillermo 	3) Added 2008		603		1900s		Q3540053	Q302675	21017	42966	6	30
+723		2008	2010	2012	2018		Three Trapped Tigers	Cabrera Infante, Guillermo	3) Added 2008		603		1900s		Q3540053	Q302675	21017	42966	6	30
 724	2006	2008	2010	2012	2018		Sometimes a Great Notion	Kesey, Ken	1) core list		187	American	1900s		Q4373175	Q244390	60173	452861	6	56
 725	2006	2008	2010	2012	2018		The Passion According to G.H.	Lispector, Clarice	1) core list		111	Russian/Brazilian	1900s		Q9558465	Q235955	42615	546499	4	46
 726		2008	2010	2012	2018		Back to Oegstgeest	Wolkers, Jan	3) Added 2008	Terug naar Oegstgeest	1203	Dutch	1900s		Q2045007	Q379679	4597	42008	2	23
 727		2008	2010	2012	2018		Closely Watched Trains	Hrabal, Bohumil	3) Added 2008		472		1900s		Q3998257	Q242130	19129	223493	6	48
-728	2006	2008	2010	2012	2018		The River Between	Ngugi wa Thiong'o 	1) core list		741	Kenyan	1900s		Q7760989	Q302910	28417	165280	3	58
+728	2006	2008	2010	2012	2018		The River Between	Ngugi wa Thiong'o	1) core list		741	Kenyan	1900s		Q7760989	Q302910	28417	165280	3	58
 729		2008	2010	2012	2018		Garden, Ashes	Kis, Danilo	3) Added 2008		116		1900s		Q16981656	Q310562	3041	86888	2	41
 730	2006	2008	2010	2012	2018		Everything That Rises Must Converge	O'Connor, Flannery	1) core list		28	American	1900s		Q5418095	Q234579	41603	506451	2	44
 731	2006						God Bless You, Mr. Rosewater	Vonnegut, Kurt	2) Deleted 2008		302	American	1900s		Q2637474	Q49074	47880	1528938	9	82
 732	2006						August is a Wicked Month	O'Brien, Edna	2) Deleted 2008		1236	Irish	1900s		Q16154411	Q178225	2256	92839	1	27
-733	2006	2008	2010	2012	2018		Things: A Story of the Sixties	Perec, Georges	1) core list	Les choses  	691	French	1900s		Q2916018	Q157303	30852	289974	5	49
-734		2008	2010	2012	2018		Death and the Dervish	Selimovic, Mesa	3) Added 2008	Derviš i smrt  	3		1900s		Q1192882	Q315677	59953	115965	15	31
+733	2006	2008	2010	2012	2018		Things: A Story of the Sixties	Perec, Georges	1) core list	Les choses	691	French	1900s		Q2916018	Q157303	30852	289974	5	48
+734		2008	2010	2012	2018		Death and the Dervish	Selimovic, Mesa	3) Added 2008	Derviš i smrt	3		1900s		Q1192882	Q315677	59953	115965	15	31
 735		2008	2010	2012	2018		Silence	Endo, Shusaku	3) Added 2008		128		1900s		Q3960523	Q316217	206206	289697	25	43
 736		2008	2010	2012	2018		To Each His Own	Sciascia, Leonardo	3) Added 2008	A ciascuno il suo	514	Italian	1900s		Q2238230	Q317142	32165	202573	3	36
 737	2006	2008	2010	2012	2018		The Crying of Lot 49	Pynchon, Thomas	1) core list		725	American	1900s		Q2344707	Q35155	170881	704820	15	61
@@ -743,7 +743,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 742	2006	2008	2010	2012	2018		In Cold Blood	Capote, Truman	1) core list		158	American	1900s		Q1142887	Q134180	834916	3621460	25	77
 743	2006						Trawl	Johnson, B.S.	2) Deleted 2008		1218	English	1900s			Q795238		18222	0	13
 744	2006						The Birds Fall Down	West, Rebecca	2) Deleted 2008		1145	English	1900s			Q236669		104332	0	40
-745	2006						A Man Asleep	Perec, Georges	2) Deleted 2008	Un homme qui dort	179	French	1900s		Q245847	Q157303	24480	289974	10	49
+745	2006						A Man Asleep	Perec, Georges	2) Deleted 2008	Un homme qui dort	179	French	1900s		Q245847	Q157303	24480	289974	10	48
 746	2006	2008	2010	2012	2018		The Master and Margarita	Bulgakov, Mikhail	1) core list		18	Russian	1900s		Q188538	Q835	2313113	1693931	60	90
 747	2006	2008	2010	2012	2018		Wide Sargasso Sea	Rhys, Jean	1) core list		932	Domenican/English	1900s		Q2268151	Q230598	226920	128825	14	40
 748	2006	2008	2010	2012	2018		The Third Policeman	O'Brien, Flann	1) core list		219		1900s		Q2483345	Q469093	53662	76187	5	30
@@ -772,7 +772,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 771	2006	2008	2010	2012	2018		Cancer Ward	Solzhenitsyn, Aleksandr	1) core list		112	Russian	1900s		Q1093483	Q34474	89226	1774031	19	118
 772	2006	2008	2010	2012	2018		Myra Breckinridge	Vidal, Gore	1) core list		1038	American	1900s		Q2739687	Q167821	59480	983516	5	64
 773	2006	2008	2010	2012	2018		The First Circle	Solzhenitsyn, Aleksandr	1) core list		115	Russian	1900s		Q599585	Q34474	70561	1774031	14	118
-774	2006	2008	2010	2012	2018		A Void	Perec, Georges	1) core list	La disparition	721	French	1900s		Q595140	Q157303	154739	289974	11	49
+774	2006	2008	2010	2012	2018		A Void	Perec, Georges	1) core list	La disparition	721	French	1900s		Q595140	Q157303	154739	289974	11	48
 775	2006	2008	2010	2012	2018		Them	Oates, Joyce Carol	1) core list		994	American	1900s		Q7781163	Q217557	26053	542680	4	45
 776	2006	2008	2010	2012	2018		Ada	Nabokov, Vladimir	1) core list		207	Russian/American	1900s		Q117431	Q36591	103483	1589754	15	113
 777	2006	2008	2010	2012	2018		The Godfather	Puzo, Mario	1) core list		14	American	1900s		Q243556	Q182870	780751	906283	47	71
@@ -787,7 +787,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 786	2006						The Atrocity Exhibition	Ballard, J.G.	2) Deleted 2008		548		1900s		Q1083082	Q140201	61381	399632	6	45
 787		2008	2010	2012	2018		The Case Worker	Konrad, Gyorgy	3) Added 2008		476		1900s			Q326823		26557	0	29
 788		2008	2010	2012	2018		Moscow Stations	Erofeyev, Venedikt	3) Added 2008		165		1900s		Q1215725	Q366503	156885	140862	17	28
-789		2008	2010	2012	2018		Heartbreak Tango	Puig, Manuel	3) Added 2008	Boquitas pintadas  	571		1900s		Q580827	Q284560	42550	107139	4	35
+789		2008	2010	2012	2018		Heartbreak Tango	Puig, Manuel	3) Added 2008	Boquitas pintadas	571		1900s		Q580827	Q284560	42550	107139	4	35
 790		2008	2010	2012	2018		Season of Migration to the North	Salih, Tayeb	3) Added 2008		727		1900s		Q921128	Q561434	72828	64252	13	28
 791		2008	2010	2012	2018		Here's to You, Jesusa	Poniatowska, Elena	3) Added 2008		608		1900s		Q5861346	Q261397	6611	174203	1	30
 792		2008	2010	2012	2018		Fifth Business	Davies, Robertson	3) Added 2008		177		1900s		Q5447489	Q545375	17295	54350	3	23
@@ -795,7 +795,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 794	2006	2008	2010	2012	2018		Anniversaries	Johnson, Uwe	1) core list	Jahrestage	686	German/English	1900s		Q1678667	Q61627	19173	71954	2	28
 795	2006						Troubles	Farrell, J.G.	2) Deleted 2008		825	English	1900s		Q4000425	Q542763	12869	32207	5	25
 796	2006						Mercier and Camier	Beckett, Samuel	2) Deleted 2008		777	Irish	1900s		Q6818495	Q37327	4801	1307056	3	108
-797		2008	2010	2012	2018		A World for Julius	Bryce Echenique, Alfredo 	3) Added 2008		222		1900s		Q4660815	Q734092	20016	56994	3	19
+797		2008	2010	2012	2018		A World for Julius	Bryce Echenique, Alfredo	3) Added 2008		222		1900s		Q4660815	Q734092	20016	56994	3	19
 798	2006	2008	2010	2012	2018		I Know Why the Caged Bird Sings	Angelou, Maya	1) core list		38	American	1900s		Q3163506	Q19526	334768	1618961	13	105
 799	2006						Goalie’s Anxiety at the Penalty Kick	Handke, Peter	2) Deleted 2008		1212	Austrian	1900s		Q252283	Q44107	24639	367899	7	79
 800	2006	2008	2010	2012	2018		The Bluest Eye	Morrison, Toni	1) core list		176	American	1900s		Q1069956	Q72334	362220	1085899	17	105
@@ -834,7 +834,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 833	2006	2008	2010	2012	2018		The Lost Honor of Katharina Blum	Böll, Heinrich	1) core list		751	German	1900s		Q841315	Q42747	138091	424293	27	95
 834	2006	2008	2010	2012	2018		Dusklands	Coetzee, J.M.	1) core list		1116	S. African	1900s		Q675265	Q43293	9658	391263	7	93
 835	2006	2008	2010	2012	2018		The Fan Man	Kotzwinkle, William	1) core list		229	American	1900s		Q15052483	Q639538	3540	14951	1	10
-836		2008	2010	2012	2018		The Port	Šoljan, Antun	3) Added 2008	Luka  	1270		1900s		Q97224965	Q1292483	613	4666	1	11
+836		2008	2010	2012	2018		The Port	Šoljan, Antun	3) Added 2008	Luka	1270		1900s		Q97224965	Q1292483	613	4666	1	11
 837	2006	2008	2010	2012	2018		Ragtime	Doctorow, E.L.	1) core list		466	American	1900s		Q737910	Q335232	53612	100245	8	38
 838		2008	2010	2012	2018		The Commandant	Anderson, Jessica	3) Added 2008		1283		1900s			Q458240		3881	0	14
 839		2008	2010	2012	2018		The Year of the Hare	Paasilinna, Arto	3) Added 2008		881		1900s		Q661017	Q211542	44879	90350	15	41
@@ -848,7 +848,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 847	2006	2008	2010	2012	2018		Correction	Bernhard, Thomas	1) core list		51		1900s		Q698410	Q44336	11617	346356	3	49
 848	2006						Dead Babies	Amis, Martin	2) Deleted 2008		1183	English	1900s		Q3400390	Q310176	16379	978134	3	47
 849	2006	2008	2010	2012	2018		A Dance to the Music of Time	Powell, Anthony	1) core list		639	English	1900s		Q1392936	Q573805	57966	13805	2	14
-850	2006	2008	2010	2012	2018		W, or the Memory of Childhood	Perec, Georges	1) core list		516	French	1900s		Q3564888	Q157303	33382	289974	5	49
+850	2006	2008	2010	2012	2018		W, or the Memory of Childhood	Perec, Georges	1) core list		516	French	1900s		Q3564888	Q157303	33382	289974	5	48
 851	2006	2008	2010	2012	2018		The Autumn of the Patriarch	García Márquez, Gabriel	1) core list		509	Colombian	1900s		Q961566	Q5878	121509	2940272	27	156
 852	2006	2008	2010	2012	2018		Patterns of Childhood	Wolf, Christa	1) core list		597	German	1900s		Q1741948	Q57382	5279	135813	2	54
 853	2006						Amateurs	Barthelme, Donald	2) Deleted 2008		761	American	1900s		Q16514436	Q353869	52	52874	0	29
@@ -865,7 +865,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 864		2008	2010	2012	2018		Quartet in Autumn	Pym, Barbara	3) Added 2008		378		1900s		Q737164	Q272585	4878	48599	3	19
 865	2006	2008	2010	2012	2018		The Hour of the Star	Lispector, Clarice	1) core list		210	Russian/Brazilian	1900s		Q7740489	Q235955	73787	546499	7	46
 866	2006	2008	2010	2012	2018		Song of Solomon	Morrison, Toni	1) core list		183	American	1900s		Q3480330	Q72334	145202	1085899	12	105
-867	2006						Petals of Blood	Ngugi wa Thiong'o 	2) Deleted 2008		699	Kenyan	1900s		Q7171660	Q302910	23581	165280	3	58
+867	2006						Petals of Blood	Ngugi wa Thiong'o	2) Deleted 2008		699	Kenyan	1900s		Q7171660	Q302910	23581	165280	3	58
 868		2008	2010	2012	2018		The Wars	Findley, Timothy	3) Added 2008		460		1900s		Q7773615	Q1379443	10385	14534	1	15
 869	2006	2008	2010	2012	2018		Dispatches	Herr, Michael	1) core list		40	American	1900s		Q4801413	Q937835	28418	50925	4	23
 870	2006	2008	2010	2012	2018		The Shining	King, Stephen	1) core list		105	American	1900s		Q470937	Q39829	792944	5752199	33	110
@@ -875,7 +875,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 874		2008	2010	2012	2018		Requiem for a Dream	Selby, Jr. Hubert	3) Added 2008		122		1900s		Q3428183	Q551487	104190	120775	9	25
 875	2006	2008	2010	2012	2018		The Singapore Grip	Farrell, J.G.	1) core list		681	English	1900s		Q716707	Q542763	20623	32207	4	25
 876	2006	2008	2010	2012	2018		The Sea, The Sea	Murdoch, Iris	1) core list		523	English	1900s		Q3794562	Q217495	64772	330830	9	60
-877	2006	2008	2010	2012	2018		Life: A User’s Manual	Perec, Georges	1) core list	La vie: mode d'emploi	117	French	1900s		Q302255	Q157303	97117	289974	18	49
+877	2006	2008	2010	2012	2018		Life: A User’s Manual	Perec, Georges	1) core list	La vie: mode d'emploi	117	French	1900s		Q302255	Q157303	97117	289974	18	48
 878	2006						The World According to Garp	Irving, John	2) Deleted 2008		240	American	1900s		Q2507282	Q310379	177356	503937	18	45
 879		2008	2010	2012	2018		The Back Room	Martin Gaite, Carmen	3) Added 2008		632		1900s		Q5834434	Q268582	14584	106982	4	19
 880	2006	2008	2010	2012	2018		The Virgin in the Garden	Byatt, A.S.	1) core list		937	English	1900s		Q24255754	Q232417	9233	263179	2	47
@@ -898,7 +898,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 897		2008	2010	2012	2018		Clear Light of Day	Desai, Anita	3) Added 2008		886		1900s		Q3667522	Q268495	30654	145171	4	35
 898	2006	2008	2010	2012	2018		Confederacy of Dunces	Toole, John Kennedy	1) core list		482	American	1900s		Q627749	Q313739	424023	183031	17	37
 899	2006	2008	2010	2012	2018		Rituals	Nooteboom, Cees	1) core list	Rituelen	953	Dutch	1900s		Q737805	Q158394	7399	61527	4	35
-900		2008	2010	2012	2018		Smell of Sadness	Kossmann, Alfred	3) Added 2008	Geur der droefenis  	1316		1900s			Q1895179		2180	0	2
+900		2008	2010	2012	2018		Smell of Sadness	Kossmann, Alfred	3) Added 2008	Geur der droefenis	1316		1900s			Q1895179		2180	0	2
 901	2006	2008	2010	2012	2018		Broken April	Kadare, Ismail	1) core list		309	Albanian	1900s		Q2280031	Q179695	33024	299090	16	69
 902	2006						Rites of Passage	Golding, William	2) Deleted 2008		1009	English	1900s		Q3937279	Q44183	15772	455741	4	98
 903	2006	2008	2010	2012	2018		Midnight’s Children	Rushdie, Salman	1) core list		438	Indian	1900s		Q625764	Q44306	315720	2473385	38	98
@@ -927,7 +927,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 926		2008	2010	2012	2018		Baltasar and Blimunda	Saramago, Jose	3) Added 2008		430		1900s		Q2510238	Q37060	77285	778019	12	108
 927	2006	2008	2010	2012	2018		The Sorrow of Belgium	Claus, Hugo	1) core list	Het verdriet van België	1104	Belgian	1900s		Q2603408	Q117783	20139	70794	8	36
 928	2006	2008	2010	2012	2018		The Piano Teacher	Jelinek, Elfriede	1) core list		1042	Austrian	1900s		Q3823559	Q47243	75967	292192	12	103
-929	2006						The Diary of Jane Somers	Lessing, Doris	2) Deleted 2008	Re: Colonised Planet 5, Shikasta  	541		1900s		Q86450090	Q40874	1166	686537	1	106
+929	2006						The Diary of Jane Somers	Lessing, Doris	2) Deleted 2008	Re: Colonised Planet 5, Shikasta	541		1900s		Q86450090	Q40874	1166	686537	1	106
 930	2006	2008	2010	2012	2018		The Life and Times of Michael K	Coetzee, J.M.	1) core list		477	S. African	1900s		Q761474	Q43293	42673	391263	16	93
 931	2006	2008	2010	2012	2018		Waterland	Swift, Graham	1) core list		471	English	1900s		Q3795005	Q437718	21212	60282	6	30
 932	2006	2008	2010	2012	2018		La Brava	Leonard, Elmore	1) core list		807	American	1900s		Q6460688	Q336519	9467	450120	2	41
@@ -983,7 +983,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 982	2006	2008	2010	2012	2018		An Artist of the Floating World	Ishiguro, Kazuo	1) core list		669	Japanese/English	1900s		Q4003685	Q272855	87414	1174202	15	96
 983		2008	2010	2012	2018		Memory of Fire	Galeano, Eduardo	3) Added 2008		422		1900s		Q3854385	Q44575	15020	331836	2	54
 984	2006	2008	2010	2012	2018		The Old Devils	Amis, Kingsley	1) core list		1214	English	1900s		Q4009164	Q220078	14861	270723	4	52
-985	2006	2008	2010	2012	2018		Matigari	Ngugi wa Thiong'o 	1) core list		927	Kenyan	1900s		Q96392267	Q302910	5914	165280	3	58
+985	2006	2008	2010	2012	2018		Matigari	Ngugi wa Thiong'o	1) core list		927	Kenyan	1900s		Q96392267	Q302910	5914	165280	3	58
 986	2006	2008	2010	2012	2018		Anagrams	Moore, Lorrie	1) core list		383	American	1900s			Q204168		71378	0	18
 987	2006	2008	2010	2012	2018		Lost Language of Cranes	Leavitt, David	1) core list		398	American	1900s		Q2906863	Q1175150	12616	31341	4	11
 988	2006	2008	2010	2012	2018		The Taebaek Mountains	Jo, Jung-rae	1) core list		1309	Korean	1900s		Q11278105	Q623737	14178	25948	3	9
@@ -1116,7 +1116,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 1115	2006	2008	2010	2012	2018		The Wind-Up Bird Chronicle	Murakami, Haruki	1) core list		139	Japanese	1900s		Q976992	Q134798	328804	2817237	23	94
 1116	2006						The Master of Petersburg	Coetzee, J.M.	2) Deleted 2008		982	S. African	1900s		Q2070594	Q43293	7261	391263	7	93
 1117		2008	2010	2012	2018		Our Lady of the Assassins	Vallejo, Fernando	3) Added 2008		862		1900s		Q926145	Q706272	39249	53734	3	17
-1118	2006	2008	2010	2012	2018		Land	Park,, Kyŏng-ni 	1) core list		1248	S Korean	1900s		Q7813427	Q39963	16028	40410	3	16
+1118	2006	2008	2010	2012	2018		Land	Park,, Kyŏng-ni	1) core list		1248	S Korean	1900s		Q7813427	Q39963	16028	40410	3	16
 1119	2006	2008	2010	2012	2018		Whatever	Houellebecq, Michel	1) core list		963		1900s		Q784197	Q103114	95134	1092854	12	65
 1120	2006						The Folding Star	Hollinghurst, Alan	2) Deleted 2008		962	English	1900s		Q629646	Q316048	5450	48067	2	29
 1121	2006						Mr. Vertigo	Auster, Paul	2) Deleted 2008		403	American	1900s		Q1951470	Q214642	16813	514798	8	58
@@ -1141,7 +1141,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 1140	2006	2008	2010	2012	2018		Fugitive Pieces	Michaels, Anne	1) core list		379	Canadian	1900s		Q5507274	Q469135	13654	14261	6	16
 1141	2006	2008	2010	2012	2018		Hallucinating Foucault	Duncker, Patricia	1) core list		390	Jamaican	1900s		Q5643191	Q358006	1295	2457	1	5
 1142	2006						Cocaine Nights	Ballard, J.G.	2) Deleted 2008		1128		1900s		Q600448	Q140201	14993	399632	5	45
-1143		2008	2010	2012	2018		A Light Comedy	Mendoza, Eduardo	3) Added 2008	Una comedia ligera  	1257		1900s			Q72541		155702	0	29
+1143		2008	2010	2012	2018		A Light Comedy	Mendoza, Eduardo	3) Added 2008	Una comedia ligera	1257		1900s			Q72541		155702	0	29
 1144		2008	2010	2012	2018		Fall on Your Knees	MacDonald, Ann-Marie	3) Added 2008		502		1900s		Q5432179	Q437321	18716	29401	1	16
 1145	2006	2008	2010	2012	2018		Silk	Baricco, Alessandro	1) core list	Seta	418	Italian	1900s		Q960929	Q295589	60468	365933	12	35
 1146	2006						The Untouchable	Banville, John	2) Deleted 2008		499	Irish	1900s		Q3641765	Q313077	8028	199902	2	43
@@ -1150,7 +1150,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 1149	2006						Mason & Dixon	Pynchon, Thomas	2) Deleted 2008		396	American	1900s		Q1536968	Q35155	87184	704820	7	61
 1150		2008	2010	2012	2018		Margot and the Angels	Hemmerechts, Kristien	3) Added 2008	Margot en de Engelen	1301	Belgian	1900s			Q1999777		11194	0	7
 1151	2006	2008	2010	2012			The Life of Insects	Pelevin, Victor	1) core list		540	Russian	1900s		Q4180246	Q246722	35053	835167	6	48
-1152		2008	2010				Money to Burn	Piglia, Ricardo	6) Deleted 2012	Plata quemada  	831		1900s		Q6077998	Q583814	8145	48214	1	22
+1152		2008	2010				Money to Burn	Piglia, Ricardo	6) Deleted 2012	Plata quemada	831		1900s		Q6077998	Q583814	8145	48214	1	22
 1153	2006	2008	2010				Jack Maggs	Carey, Peter	6) Deleted 2012		920	Australian	1900s		Q4160095	Q313254	6287	59041	4	34
 1154	2006	2008	2010	2012	2018		Underworld	DeLillo, Don	1) core list		679	American	1900s		Q2249650	Q310048	106934	369827	8	43
 1155	2006	2008	2010				Enduring Love	McEwan, Ian	6) Deleted 2012		890	English	1900s		Q2920448	Q190379	39362	586384	9	52
@@ -1182,7 +1182,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 1181		2008	2010	2012	2018		Pavel's Letters	Maron, Monika	3) Added 2008		1288		1900s		Q23786227	Q69679	829	35139	1	16
 1182		2008	2010	2012	2018		In Search of Klingsor	Volpi, Jorge	3) Added 2008		701		1900s		Q1169338	Q1376498	1006	24967	1	16
 1183		2008	2010	2012	2018		The Museum of Unconditional Surrender	Ugresic, Dubravka	3) Added 2008		432		1900s			Q237416		127001	0	41
-1184	2006	2008	2010	2012	2018		Fear and Trembling	Nothomb, Amélie	1) core list	Stupeur et tremblements  	696	Japanese	1900s		Q1638148	Q168040	91022	543268	17	62
+1184	2006	2008	2010	2012	2018		Fear and Trembling	Nothomb, Amélie	1) core list	Stupeur et tremblements	696	Japanese	1900s		Q1638148	Q168040	91022	543268	17	62
 1185	2006						Everything You Need	Kennedy, A.L.	2) Deleted 2008		1013	Scottish	1900s			Q278872		38413	0	13
 1186	2006						Pastoralia	Saunders, George	2) Deleted 2008		96	American	2000s		Q7143062	Q1251926	5872	199680	1	34
 1187	2006						Blonde	Oates, Joyce Carol	2) Deleted 2008		734	American	2000s		Q1580112	Q217557	65992	542680	7	45
@@ -1242,7 +1242,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 1241		2008	2010	2012	2018		The Namesake	Lahiri, Jhumpa	3) Added 2008		249	Indian	2000s		Q7753070	Q465208	85338	334150	5	60
 1242		2008	2010	2012	2018		Vernon God Little	Pierre, D.B.C.	3) Added 2008		969		2000s		Q475459	Q336565	25351	17909	10	30
 1243		2008	2010	2012			The Successor	Kadare, Ismail	3) Added 2008		1176		2000s		Q11789877	Q179695	3115	299090	4	69
-1244		2008	2010	2012	2018		Lady Number Thirteen	Somoza, Jose Carlos	3) Added 2008	La dama número trece  	1016		2000s		Q5966432	Q469960	1764	14804	2	17
+1244		2008	2010	2012	2018		Lady Number Thirteen	Somoza, Jose Carlos	3) Added 2008	La dama número trece	1016		2000s		Q5966432	Q469960	1764	14804	2	17
 1245	2006	2008	2010	2012	2018		What I Loved	Hustvedt, Siri	1) core list		227	American	2000s		Q3927652	Q259543	16001	138743	4	28
 1246	2006						The Light of Day	Swift, Graham	2) Deleted 2008		1190	English	2000s		Q21592514	Q437718	4443	60282	3	30
 1247	2006						Thursbitch	Garner, Alan	2) Deleted 2008		1045	English	2000s		Q7799388	Q384481	3400	55957	1	16
@@ -1296,7 +1296,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 1295				2012	2018		The History of Love	Krauss, Nicole	7) Added 2012		349		2000s		Q5237708	Q466431	32319	65010	9	24
 1296				2012	2018		1Q84	Murakami, Haruki	8) Deleted 2018*		716		2000s	* in some editions	Q208971	Q134798	609172	2817237	34	94
 1297				2012	2018		A Gate at the Stairs	Moore, Lorrie	7) Added 2012		1252		2000s		Q4656935	Q204168	5836	71378	1	18
-1298				2012	2018		Cain	Saramago, Jose 	8) Deleted 2018*		347		2000s	* in some editions	Q2436699	Q37060	30436	778019	8	108
+1298				2012	2018		Cain	Saramago, Jose	8) Deleted 2018*		347		2000s	* in some editions	Q2436699	Q37060	30436	778019	8	108
 1299				2012	2018		A Visit from the Goon Squad	Egan, Jennifer	7) Added 2012		839		2000s		Q213300	Q264283	162321	120728	7	26
 1300				2012	2018		Freedom	Franzen, Jonathan	7) Added 2012		815		2000s		Q724340	Q316607	67546	330076	6	41
 1301				2012	2018		Nemesis	Roth, Philip	7) Added 2012		651		2000s		Q1977121	Q187019	23046	769089	6	75
