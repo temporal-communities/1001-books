@@ -92,7 +92,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 91	2006						The Monastery	Scott, Sir Walter	2) Deleted 2008		1231	Scottish	1800s		Q3224650	Q79025
 92	2006	2008	2010	2012	2018		Melmoth the Wanderer	Maturin, Charles Robert	1) core list		984	Irish	1800s		Q1475956	Q561027
 93	2006						The Albigenses	Maturin, Charles Robert	2) Deleted 2008		1312	Irish	1800s		Q117317300	Q561027
-94		2008	2010	2012	2018		The Life and Opinions of the Tomcat Murr	Hoffman, E.T.A.	3) Added 2008	Lebensansichten des Katers Murr	529		1800s		Q1314475	Q150471
+94		2008	2010	2012	2018		The Life and Opinions of the Tomcat Murr	Hoffmann, E.T.A.	3) Added 2008	Lebensansichten des Katers Murr	529		1800s		Q1314475	Q150471
 95	2006	2008	2010	2012	2018		The Private Memoirs and Confessions of a Justified Sinner	Hogg, James	1) core list		888	Scottish	1800s		Q2992437	Q941810
 96		2008	2010	2012	2018		The Life of a Good-for-Nothing	Eichendorff, Joseph von	3) Added 2008	Aus dem Leben eines Taugenichts	1146		1800s		Q777658	Q77204
 97	2006	2008	2010	2012	2018		Last of the Mohicans	Cooper, James Fenimore	1) core list		837	American	1800s		Q493574	Q167856
@@ -240,7 +240,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 239	2006	2008	2010	2012	2018		Diary of a Nobody	Grossmith, George	1) core list		745	English	1800s		Q864150	Q1564825
 240	2006						Born in Exile	Gissing, George	2) Deleted 2008		1168	English	1800s		Q4945890	Q369790
 241	2006						The Yellow Wallpaper	Gilman, Charlotte Perkins	2) Deleted 2008		65	American	1800s		Q462373	Q287752
-242	2006						The Real Charlotte	Somerville and Ross	2) Deleted 2008		1250	Greek/Irish	1800s		Q51524366	Q7369633
+242	2006						The Real Charlotte	Somerville and Ross	2) Deleted 2008		1250	Greek/Irish	1800s		Q51524366	Q7559989
 243		2008	2010	2012	2018		The Viceroys	De Roberto, Federico	3) Added 2008		385		1800s		Q3236059	Q2641199
 244	2006	2008	2010	2012	2018		Jude the Obscure	Hardy, Thomas	1) core list		566	English	1800s		Q1248773	Q132805
 245	2006	2008	2010	2012	2018		Effi Briest	Fontane, Theodor	1) core list		1219	German	1800s		Q1296168	Q76632
@@ -260,7 +260,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 259	2006	2008	2010	2012	2018		The Awakening	Chopin, Kate	1) core list		826	American	1800s		Q1567505	Q230476
 260	2006	2008	2010	2012	2018		The Stechlin	Fontane, Theodor	1) core list		1007	German	1800s		Q1197130	Q76632
 261		2008	2010	2012	2018		Eclipse of the Crescent Moon	Gardonyi, Geza	3) Added 2008		822		1800s		Q987956	Q221903
-262	2006	2008	2010	2012	2018		Some Experiences of an Irish R.M.	Somerville and Ross	1) core list		1017	Irish	1800s		Q124091969	Q7369633
+262	2006	2008	2010	2012	2018		Some Experiences of an Irish R.M.	Somerville and Ross	1) core list		1017	Irish	1800s		Q124091969	Q7559989
 263		2008	2010	2012	2018		Sandokan: The Tigers of Mompracem	Salgari, Emilio	3) Added 2008	Le tigri di Mompracem	732	Italian	1900s		Q1248151	Q309786
 264	2006	2008	2010	2012	2018		Sister Carrie	Dreiser, Theodore	1) core list		848	American	1900s		Q1286961	Q486096
 265	2006						Lord Jim	Conrad, Joseph	2) Deleted 2008		991	English	1900s		Q727408	Q82925
@@ -273,9 +273,9 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 272	2006	2008	2010	2012	2018		The Immoralist	Gide, André	1) core list		961	French	1900s		Q174626	Q47484
 273	2006	2008	2010	2012	2018		The Ambassadors	James, Henry	1) core list		997	American	1900s		Q650571	Q170509
 274	2006						The Golden Bowl	James, Henry	2) Deleted 2008		814	American	1900s		Q1248585	Q170509
-275	2006	2008	2010	2012	2018		The Riddle of the Sands	Childers, Erskine	1) core list		980	Irish	1900s		Q1170204	Q356450
+275	2006	2008	2010	2012	2018		The Riddle of the Sands	Childers, Erskine	1) core list		980	Irish	1900s		Q1170204	Q1270441
 276		2008	2010	2012	2018		The Call of the Wild	London, Jack	3) Added 2008		412	American	1900s		Q476871	Q45765
-277		2008	2010	2012	2018		Memoirs of my Nervous Illness	Schreber, Daniel Paul	3) Added 2008	Denkwürdigkeiten eines Nervenkranken	393		1900s			Q62468
+277		2008	2010	2012	2018		Memoirs of my Nervous Illness	Schreber, Daniel Paul	3) Added 2008	Denkwürdigkeiten eines Nervenkranken	393		1900s		Q127698915	Q62468
 278		2008	2010	2012	2018		The Way of All Flesh	Butler, Samuel	3) Added 2008		981	English	1900s		Q255074	Q258766
 279	2006	2008	2010	2012	2018		Hadrian the Seventh	Rolfe, Frederick	1) core list		1206	English	1900s		Q5638060	Q1289140
 280	2006	2008	2010	2012	2018		Nostromo	Conrad, Joseph	1) core list		613	English	1900s		Q430248	Q82925
@@ -302,13 +302,13 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 301	2006	2008	2010	2012	2018		Impressions of Africa	Roussel, Raymond	1) core list		678	French	1900s		Q3149476	Q462662
 302	2006	2008	2010	2012	2018		Fantômas	Allain, Marcel	1) core list		959	French	1900s		Q16635857	Q971735
 303	2006	2008	2010	2012	2018		Ethan Frome	Wharton, Edith	1) core list		1096	American	1900s		Q5402934	Q276032
-304	2006	2008	2010	2012	2018		The Charwoman’s Daughter	Stephens, James	1) core list		1194	Irish	1900s			Q508101
+304	2006	2008	2010	2012	2018		The Charwoman’s Daughter	Stephens, James	1) core list		1194	Irish	1900s		Q127698993	Q508101
 305	2006	2008	2010	2012	2018		Death in Venice	Mann, Thomas	1) core list		668	German	1900s		Q828296	Q37030
 306	2006	2008	2010	2012	2018		Sons and Lovers	Lawrence, D.H.	1) core list		1022	English	1900s		Q80771	Q34970
 307	2006	2008	2010	2012	2018		The Ragged Trousered Philanthropists	Tressell, Robert	1) core list		488	Irish	1900s		Q7759270	Q7350472
 308		2008	2010	2012	2018		Platero and I	Jiménez, Juan Ramón	3) Added 2008	Platero y yo	570	Spanish	1900s		Q2916224	Q131318
 309	2006	2008	2010	2012	2018		Tarzan of the Apes	Burroughs, Edgar Rice	1) core list		448	American	1900s		Q655296	Q148234
-310	2006						Rosshalde	Hesse, Herman	2) Deleted 2008		784	German	1900s		Q2171354	Q25973
+310	2006						Rosshalde	Hesse, Hermann	2) Deleted 2008		784	German	1900s		Q2171354	Q25973
 311	2006	2008	2010	2012	2018		Locus Solus	Roussel, Raymond	1) core list		238	French	1900s		Q2913641	Q462662
 312	2006	2008	2010	2012	2018		Kokoro	Natsume, Soseki	1) core list		232	Japanese	1900s		Q2623003	Q180903
 313	2006	2008	2010	2012	2018		The Thirty-Nine Steps	Buchan, John	1) core list		863	Scottish	1900s		Q2609365	Q333004
@@ -344,7 +344,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 343	2006	2008	2010	2012	2018		Life and Death of Harriett Frean	Sinclair, May	1) core list		1103	English	1900s		Q19572638	Q1131497
 344	2006						The Glimpses of the Moon	Wharton, Edith	2) Deleted 2008		627	American	1900s		Q30717034	Q276032
 345		2008	2010	2012	2018		The Forest of the Hanged	Rebreanu, Liviu	3) Added 2008		342		1900s		Q15731603	Q462220
-346	2006	2008	2010	2012	2018		Siddhartha	Hesse, Herman	1) core list		162	German	1900s		Q457289	Q25973
+346	2006	2008	2010	2012	2018		Siddhartha	Hesse, Hermann	1) core list		162	German	1900s		Q457289	Q25973
 347	2006						Jacob’s Room	Woolf, Virginia	2) Deleted 2008		1043	English	1900s		Q1677745	Q40909
 348	2006	2008	2010	2012	2018		The Enormous Room	Cummings, E.E.	1) core list		790	American	1900s		Q2389737	Q298703
 349	2006						The Garden Party	Mansfield, Katherine	2) Deleted 2008		457	New Zealand	1900s		Q7735827	Q270632
@@ -357,7 +357,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 356	2006	2008	2010	2012	2018		A Passage to India	Forster, E.M.	1) core list		861	English	1900s		Q622303	Q189119
 357	2006	2008	2010	2012	2018		We	Zamyatin, Yevgeny	1) core list		322	Russian	1900s		Q83799	Q204868
 358	2006	2008	2010	2012	2018		The Magic Mountain	Mann, Thomas	1) core list		221	German	1900s		Q212898	Q37030
-359	2006	2008	2010	2012	2018		The Green Hat	Arlen, Michael	1) core list		1269	Bulgarian	1900s		Q105043808	Q115683
+359	2006	2008	2010	2012	2018		The Green Hat	Arlen, Michael	1) core list		1269	Bulgarian	1900s		Q123358176	Q115683
 360	2006						Billy Budd, Foretopman	Melville, Herman	2) Deleted 2008		1249	American	1900s		Q863037	Q4985
 361		2008	2010				The New World	Heruy Wolde Selassie	6) Deleted 2012		1317		1900s			Q3134389
 362	2006	2008	2010	2012	2018		The Professor’s House	Cather, Willa	1) core list		723	American	1900s		Q7758486	Q229480
@@ -383,7 +383,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 382	2006	2008	2010	2012	2018		Tarka the Otter	Williamson, Henry	1) core list		795	English	1900s		Q7686243	Q1278677
 383	2006	2008	2010	2012	2018		To The Lighthouse	Woolf, Virginia	1) core list		590	English	1900s		Q478016	Q40909
 384	2006	2008	2010	2012	2018		Remembrance of Things Past	Proust, Marcel	1) core list	A la recherche du temps perdu (In Search of Lost Time)	1234	French	1900s		Q464928	Q7199
-385	2006	2008	2010	2012	2018		Steppenwolf	Hesse, Herman	1) core list		89	German	1900s		Q217073	Q25973
+385	2006	2008	2010	2012	2018		Steppenwolf	Hesse, Hermann	1) core list		89	German	1900s		Q217073	Q25973
 386	2006	2008	2010	2012	2018		Nadja	Breton, André	1) core list		960	French	1900s		Q1816820	Q161955
 387	2006	2008	2010	2012	2018		Quicksand	Larsen, Nella	1) core list		880		1900s		Q24902061	Q453665
 388	2006	2008	2010	2012	2018		Decline and Fall	Waugh, Evelyn	1) core list		544	English	1900s		Q3115185	Q107002
@@ -515,7 +515,7 @@ ID	2006 list	2008 list	2010 list	2012 list	2018 list	r/tbr/w	Book Title	Author	L
 514	2006						Go Down, Moses	Faulkner, William	2) Deleted 2008		439	American	1900s		Q2065524	Q38392
 515	2006	2008	2010	2012	2018		Embers	Marai, Sandor	1) core list		315	Hungarian	1900s		Q366726	Q36951
 516		2008	2010	2012	2018		Chess Story	Zweig, Stefan	3) Added 2008		10		1900s		Q1513820	Q78491
-517	2006	2008	2010	2012	2018		The Glass Bead Game	Hesse, Herman	1) core list		204	German	1900s		Q836841	Q25973
+517	2006	2008	2010	2012	2018		The Glass Bead Game	Hesse, Hermann	1) core list		204	German	1900s		Q836841	Q25973
 518	2006						Caught	Green, Henry	2) Deleted 2008		1205	English	1900s			Q1285562
 519		2008	2010	2012	2018		Joseph and His Brothers	Mann, Thomas	3) Added 2008		257	German	1900s		Q282181	Q37030
 520	2006	2008	2010	2012	2018		The Little Prince	Saint-Exupéry, Antoine de	1) core list	Le petit prince	8	French	1900s		Q25338	Q2908
