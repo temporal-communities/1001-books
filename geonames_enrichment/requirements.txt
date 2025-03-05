@@ -9,7 +9,6 @@ fonttools==4.56.0
 geodatasets==2024.8.0
 geopandas==1.0.1
 idna==3.10
-importlib_metadata==8.6.1
 kiwisolver==1.4.8
 limits==4.0.1
 matplotlib==3.10.0
@@ -35,6 +34,4 @@ six==1.17.0
 typing_extensions==4.12.2
 tzdata==2025.1
 urllib3==2.3.0
-visidata==3.1.1
 wrapt==1.17.2
-zipp==3.21.0
