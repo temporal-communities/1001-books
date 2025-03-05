@@ -97,12 +97,7 @@ class HttpClient:
         """Enable the HTTP client to be used as a context manager."""
         return self
 
-    def __exit__(
-        self,
-        exc_type: type[BaseException] | None,
-        exc_value: BaseException | None,
-        traceback: TracebackType | None,
-    ) -> None:
+    def __exit__(self, exc_type: type[BaseException] | None, exc_value: BaseException | None, traceback: TracebackType | None) -> None:
         """Close the HTTP session when exiting the context manager."""
         self.close()
 

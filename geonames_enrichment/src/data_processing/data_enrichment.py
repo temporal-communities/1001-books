@@ -6,11 +6,8 @@ from src.api_clients.geonames_client import GeoNamesClient
 from src.api_clients.gnd_client import GndClient
 from src.api_clients.wikidata_client import WikidataClient
 
-from src.data_processing.data_mapping import (
-    wikidata_to_gnd,
-    gnd_to_geonames,
-    match_arealabel,
-)
+from src.data_processing.data_mapping import wikidata_to_gnd, gnd_to_geonames, match_arealabel
+
 
 logger = logging.getLogger(__name__)
 
@@ -47,7 +44,9 @@ def enrich_with_geolocation(df: pd.DataFrame, gnd_client: GndClient, wikidata_cl
     remaining_rows = df[df["GND Areacode"].isna()]
     german_labels, aliases = zip(
         *remaining_rows.apply(
-            wikidata_client.get_wikidata_labels, axis=1, args=("Work Wikidata ID",)
+            wikidata_client.get_wikidata_labels, 
+            axis=1, 
+            args=("Work Wikidata ID",)
         )
     )
     df.loc[remaining_rows.index, "German Title"] = pd.Series(german_labels, index=remaining_rows.index, dtype="str")
@@ -70,7 +69,9 @@ def enrich_with_geolocation(df: pd.DataFrame, gnd_client: GndClient, wikidata_cl
     # Fetch P495 (Country of Origin) and P19 (Place of Birth)
     remaining_rows = df[df["GND Areacode"].isna() | (df["GND Areacode"] == "https://d-nb.info/standards/vocab/gnd/geographic-area-code#ZZ")]
     results = remaining_rows.apply(
-        wikidata_client.get_wikidata_property, axis=1, args=("P495", "Work Wikidata ID")
+        wikidata_client.get_wikidata_property, 
+        axis=1, 
+        args=("P495", "Work Wikidata ID")
     )
     df.loc[remaining_rows.index, "P495"] = results
 
