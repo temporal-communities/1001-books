@@ -16,9 +16,7 @@ class WikidataClient:
         self.site = pywikibot.Site("wikidata", "wikidata")
         self.repo = self.site.data_repository()
 
-    def get_wikidata_property(
-        self, row: pd.Series, p_number: str, q_col: str
-    ) -> str | NAType:
+    def get_wikidata_property(self, row: pd.Series, p_number: str, q_col: str) -> str | NAType:
         """Fetch a specified Wikidata property (p_number) for a Wikidata Q-number in the row. If there is more than one claim, return first."""
 
         q_number = row[q_col]

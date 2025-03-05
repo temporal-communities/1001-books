@@ -1,6 +1,4 @@
-from __future__ import (
-    annotations,
-)  # Handle forward reference in typehint for __enter__ method
+from __future__ import annotations # Handle forward reference in typehint for __enter__ method
 import logging
 import re
 import pandas as pd

@@ -1,6 +1,4 @@
-from __future__ import (
-    annotations,
-)  # Handle forward reference in typehint for __enter__ method
+from __future__ import annotations  # Handle forward reference in typehint for __enter__ method
 import logging
 import time
 
@@ -45,7 +43,6 @@ def rate_limited[Self, **P, T](func: Callable[Concatenate[Self, P], T],) -> Call
     return wrapper
 
 
-# Classes
 class HttpClient:
     """
     HttpClient handles HTTP requests with rate limiting and automatic retries.
