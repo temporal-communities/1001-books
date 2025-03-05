@@ -53,7 +53,7 @@ def main():
     # Step 2: Initialize API clients
     logger.info("Initializing API clients...")
     wikidata_client = WikidataClient()
-    with (GndClient("5/second") as gnd_client, GeoNamesClient(geonames_username, "1000/hour") as geonames_client,):
+    with GndClient("5/second") as gnd_client, GeoNamesClient(geonames_username, "1000/hour") as geonames_client:
         # Step 3: Enrich data with geolocation information
         logger.info("Enriching data with geolocation information...")
         enriched_df = enrich_with_geolocation(
